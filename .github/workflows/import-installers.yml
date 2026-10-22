@@ -1,0 +1,81 @@
+name: Import public installers
+
+on:
+  push:
+    branches: [main]
+    paths: ['.github/workflows/import-installers.yml']
+  workflow_dispatch:
+    inputs:
+      source_tag:
+        description: Version to import while the source release is still public
+        required: true
+        default: v0.1.8
+
+permissions:
+  contents: write
+
+concurrency:
+  group: import-installers
+  cancel-in-progress: false
+
+jobs:
+  import:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    env:
+      GH_TOKEN: ${{ github.token }}
+      SOURCE_TAG: ${{ inputs.source_tag || 'v0.1.8' }}
+    steps:
+      - uses: actions/checkout@v4
+      - name: Wait for the tested source release
+        shell: bash
+        run: |
+          [[ "$SOURCE_TAG" =~ ^v[0-9]+\.[0-9]+\.[0-9]+$ ]] || exit 1
+          for attempt in {1..40}; do
+            if gh release view "$SOURCE_TAG" --repo menacing-aura/ConakeBrowser --json isDraft --jq '.isDraft == false' 2>/dev/null | grep -qx true; then
+              exit 0
+            fi
+            sleep 30
+          done
+          echo "The source release is not publicly available. Transfer private release assets manually."
+          exit 1
+      - name: Download installers and verify original checksums
+        shell: bash
+        run: |
+          mkdir installers
+          gh release download "$SOURCE_TAG" --repo menacing-aura/ConakeBrowser --dir installers \
+            --pattern '*.deb' --pattern '*.AppImage' --pattern '*.exe' --pattern '*.dmg' --pattern 'SHA256SUMS.txt'
+          python3 - <<'PY'
+          from pathlib import Path
+          import hashlib, os, re
+          root = Path('installers')
+          version = os.environ['SOURCE_TAG'][1:]
+          expected = {
+              f'ConakeBrowser-{version}-linux-x86_64.AppImage',
+              f'conake-browser_{version}_amd64.deb',
+              f'ConakeBrowser-{version}-win-x64.exe',
+              f'ConakeBrowser-{version}-mac-x64.dmg',
+              f'ConakeBrowser-{version}-mac-arm64.dmg',
+          }
+          assert {p.name for p in root.iterdir()} == expected | {'SHA256SUMS.txt'}, 'Unexpected assets'
+          checks = {}
+          for line in (root / 'SHA256SUMS.txt').read_text().splitlines():
+              match = re.fullmatch(r'([a-f0-9]{64})  ([^/\\]+)', line)
+              assert match and match[2] in expected and match[2] not in checks, 'Invalid checksum entry'
+              checks[match[2]] = match[1]
+          assert set(checks) == expected, 'Incomplete checksums'
+          for name, digest in checks.items():
+              with (root / name).open('rb') as source:
+                  assert hashlib.file_digest(source, 'sha256').hexdigest() == digest, name
+          PY
+      - name: Publish installer-only release
+        shell: bash
+        run: |
+          if gh release view "$SOURCE_TAG" --repo "$GITHUB_REPOSITORY" >/dev/null 2>&1; then
+            echo "Release already exists; no existing assets will be overwritten."
+            exit 0
+          fi
+          gh release create "$SOURCE_TAG" installers/* --repo "$GITHUB_REPOSITORY" \
+            --target "$GITHUB_SHA" --title "Conake Browser $SOURCE_TAG" --draft \
+            --notes-file RELEASE_NOTES.md
+          gh release edit "$SOURCE_TAG" --repo "$GITHUB_REPOSITORY" --draft=false --latest
