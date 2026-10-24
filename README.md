@@ -1,16 +1,18 @@
 # Conake Browser downloads
 
-Download **v0.1.8** to install Conake Browser. No source checkout or Node.js is needed.
+Download **v0.1.9** to install Conake Browser. No source checkout or Node.js is needed.
+
+**Fixed in this version:** older new tabs stay visible when you open another tab or switch back. Typed searches and existing encrypted accounts are preserved.
 
 | Your computer | Installer |
 | --- | --- |
-| Linux Mint / Ubuntu / Debian | [Linux · .deb](https://github.com/menacing-aura/ConakeBrowser-Downloads/releases/download/v0.1.8/conake-browser_0.1.8_amd64.deb) |
-| Other Linux desktops | [Linux · AppImage](https://github.com/menacing-aura/ConakeBrowser-Downloads/releases/download/v0.1.8/ConakeBrowser-0.1.8-linux-x86_64.AppImage) |
-| Windows | [Windows · .exe](https://github.com/menacing-aura/ConakeBrowser-Downloads/releases/download/v0.1.8/ConakeBrowser-0.1.8-win-x64.exe) |
-| Mac · Apple Silicon | [Mac · arm64 .dmg](https://github.com/menacing-aura/ConakeBrowser-Downloads/releases/download/v0.1.8/ConakeBrowser-0.1.8-mac-arm64.dmg) |
-| Mac · Intel | [Mac · x64 .dmg](https://github.com/menacing-aura/ConakeBrowser-Downloads/releases/download/v0.1.8/ConakeBrowser-0.1.8-mac-x64.dmg) |
+| Linux Mint / Ubuntu / Debian | [Linux · .deb](https://github.com/menacing-aura/ConakeBrowser-Downloads/releases/download/v0.1.9/conake-browser_0.1.9_amd64.deb) |
+| Other Linux desktops | [Linux · AppImage](https://github.com/menacing-aura/ConakeBrowser-Downloads/releases/download/v0.1.9/ConakeBrowser-0.1.9-linux-x86_64.AppImage) |
+| Windows | [Windows · .exe](https://github.com/menacing-aura/ConakeBrowser-Downloads/releases/download/v0.1.9/ConakeBrowser-0.1.9-win-x64.exe) |
+| Mac · Apple Silicon | [Mac · arm64 .dmg](https://github.com/menacing-aura/ConakeBrowser-Downloads/releases/download/v0.1.9/ConakeBrowser-0.1.9-mac-arm64.dmg) |
+| Mac · Intel | [Mac · x64 .dmg](https://github.com/menacing-aura/ConakeBrowser-Downloads/releases/download/v0.1.9/ConakeBrowser-0.1.9-mac-x64.dmg) |
 
-[Release notes](https://github.com/menacing-aura/ConakeBrowser-Downloads/releases/tag/v0.1.8) · [SHA-256 checksums](https://github.com/menacing-aura/ConakeBrowser-Downloads/releases/download/v0.1.8/SHA256SUMS.txt)
+[Release notes](https://github.com/menacing-aura/ConakeBrowser-Downloads/releases/tag/v0.1.9) · [SHA-256 checksums](https://github.com/menacing-aura/ConakeBrowser-Downloads/releases/download/v0.1.9/SHA256SUMS.txt)
 
 On first launch, create a local account with a password of at least 12 characters. Sign in to unlock your encrypted bookmarks, history, settings, and API keys. Click **Lock** to sign out. Accounts stay on this computer; there is no cloud sync or password recovery. Website sessions end on sign-out or restart. Downloaded files remain ordinary files outside the encrypted profile.
 
