@@ -19,3 +19,9 @@ On first launch, create a local account with a password of at least 12 character
 This repository contains download pages and installer distribution tooling. Application source is maintained privately. GitHub's **Code → Download ZIP** and automatically generated **Source code** archives contain these download-page files, not the browser installer. Use an installer above.
 
 The import workflow transfers installers from a release that is still publicly accessible. After the development repository becomes private, a maintainer must upload the six release assets here manually and update the version links. Do not publish application source archives.
+
+## Support and community
+
+- [Donate with Cash App](https://cash.app/$one1aura)
+- [Discord — support and community](https://discord.gg/BMcST6NaZS)
+- Work and collaborations: [godscripters@gmail.com](mailto:godscripters@gmail.com)
