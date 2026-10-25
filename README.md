@@ -1,18 +1,18 @@
 # Conake Browser downloads
 
-Download **v0.1.10** to install Conake Browser. No source checkout or Node.js is needed.
+Download **v0.1.11** to install Conake Browser. No source checkout or Node.js is needed.
 
-**New in this version:** donation, Discord support and community, and collaboration links on the new-tab page and in Settings. The blank-tab fix, typed searches, and existing encrypted accounts are preserved.
+**New in this version:** right-click menus and a visible **Edit ▾** button for Cut, Copy, Paste, Undo, Redo and Select All. Works in websites, iframe fields, the address bar, Core AI and the account screen. The community links, blank-tab fix and encrypted accounts are included.
 
 | Your computer | Installer |
 | --- | --- |
-| Linux Mint / Ubuntu / Debian | [Linux · .deb](https://github.com/menacing-aura/ConakeBrowser-Downloads/releases/download/v0.1.10/conake-browser_0.1.10_amd64.deb) |
-| Other Linux desktops | [Linux · AppImage](https://github.com/menacing-aura/ConakeBrowser-Downloads/releases/download/v0.1.10/ConakeBrowser-0.1.10-linux-x86_64.AppImage) |
-| Windows | [Windows · .exe](https://github.com/menacing-aura/ConakeBrowser-Downloads/releases/download/v0.1.10/ConakeBrowser-0.1.10-win-x64.exe) |
-| Mac · Apple Silicon | [Mac · arm64 .dmg](https://github.com/menacing-aura/ConakeBrowser-Downloads/releases/download/v0.1.10/ConakeBrowser-0.1.10-mac-arm64.dmg) |
-| Mac · Intel | [Mac · x64 .dmg](https://github.com/menacing-aura/ConakeBrowser-Downloads/releases/download/v0.1.10/ConakeBrowser-0.1.10-mac-x64.dmg) |
+| Linux Mint / Ubuntu / Debian | [Linux · .deb](https://github.com/menacing-aura/ConakeBrowser-Downloads/releases/download/v0.1.11/conake-browser_0.1.11_amd64.deb) |
+| Other Linux desktops | [Linux · AppImage](https://github.com/menacing-aura/ConakeBrowser-Downloads/releases/download/v0.1.11/ConakeBrowser-0.1.11-linux-x86_64.AppImage) |
+| Windows | [Windows · .exe](https://github.com/menacing-aura/ConakeBrowser-Downloads/releases/download/v0.1.11/ConakeBrowser-0.1.11-win-x64.exe) |
+| Mac · Apple Silicon | [Mac · arm64 .dmg](https://github.com/menacing-aura/ConakeBrowser-Downloads/releases/download/v0.1.11/ConakeBrowser-0.1.11-mac-arm64.dmg) |
+| Mac · Intel | [Mac · x64 .dmg](https://github.com/menacing-aura/ConakeBrowser-Downloads/releases/download/v0.1.11/ConakeBrowser-0.1.11-mac-x64.dmg) |
 
-[Release notes](https://github.com/menacing-aura/ConakeBrowser-Downloads/releases/tag/v0.1.10) · [SHA-256 checksums](https://github.com/menacing-aura/ConakeBrowser-Downloads/releases/download/v0.1.10/SHA256SUMS.txt)
+[Release notes](https://github.com/menacing-aura/ConakeBrowser-Downloads/releases/tag/v0.1.11) · [SHA-256 checksums](https://github.com/menacing-aura/ConakeBrowser-Downloads/releases/download/v0.1.11/SHA256SUMS.txt)
 
 On first launch, create a local account with a password of at least 12 characters. Sign in to unlock your encrypted bookmarks, history, settings, and API keys. Click **Lock** to sign out. Accounts stay on this computer; there is no cloud sync or password recovery. Website sessions end on sign-out or restart. Downloaded files remain ordinary files outside the encrypted profile.
 
@@ -25,3 +25,7 @@ The import workflow transfers installers from a release that is still publicly a
 - [Donate with Cash App](https://cash.app/$one1aura)
 - [Discord — support and community](https://discord.gg/BMcST6NaZS)
 - Work and collaborations: [godscripters@gmail.com](mailto:godscripters@gmail.com)
+
+## Copy and paste
+
+Right-click or use a two-finger trackpad click for text, link and image options. Click **Edit ▾**, beside Lock, to open editing options with a normal left click. Use **Ctrl+C**, **Ctrl+X**, **Ctrl+V** and **Ctrl+A** for copy, cut, paste and select all (Command on Mac).
