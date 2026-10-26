@@ -1,9 +1,17 @@
-Download an installer for your computer: .deb or AppImage for Linux, .exe for Windows, and the matching .dmg for Intel or Apple Silicon Macs.
+# Conake Browser v0.1.12 — Anime Eclipse
 
-Version 0.1.11 adds native right-click menus and an Edit button beside Lock. Use a right-click or two-finger trackpad click for Cut, Copy, Paste, Paste as Plain Text, Undo, Redo and Select All where available. Click Edit with a normal left click to edit the last page or browser field you focused. Text editing works in websites, iframe fields, the address bar, Core AI and the account screen. Link and image options are included. Keyboard shortcuts still work. The community links and blank-tab fix are included. Existing encrypted local accounts remain compatible. Local account creation, sign-in, Lock/sign-out, and encrypted saved profiles are included. Use a password of at least 12 characters. Accounts stay on this computer; there is no cloud sync or password recovery. Website sessions end on sign-out or restart. Downloaded files remain ordinary files outside the encrypted profile.
+An original anime design for Conake Browser, with a new serpent-C logo and matching installer icons.
 
-SHA256SUMS.txt contains checksums for the five installers. GitHub's automatically generated Source code archives contain this download page and distribution workflow, not the browser installer or application source.
+- Refreshed tabs, toolbar, Core AI, sign-in, Settings, bookmarks, history and downloads.
+- New-tab anime artwork, local clock, search and shortcuts.
+- Crimson Eclipse, Violet Pulse and Midnight in **Settings → Appearance**.
+- Saved controls to hide artwork and reduce motion.
+- Existing encrypted local accounts, copy/paste menus and the returned-tab fix remain included.
 
-- [Donate with Cash App](https://cash.app/$one1aura)
-- [Discord — support and community](https://discord.gg/BMcST6NaZS)
-- Work and collaborations: [godscripters@gmail.com](mailto:godscripters@gmail.com)
+Download .exe for Windows, .deb or AppImage for Linux, or the matching .dmg for Intel or Apple Silicon Macs. Close Conake before updating, then reopen and sign in. Accounts stay on this computer. Website sessions end on sign-out or restart.
+
+All 40 regression tests pass. Native Linux desktop checks cover the new appearance controls, tab switching, clipboard actions and sign-in. Installers are built for Windows, Linux and both Mac architectures. SHA256SUMS.txt contains the five installer checksums.
+
+GitHub’s automatically generated Source code archives contain this download page and distribution workflow. Use the installer for your computer.
+
+[Official site](https://conake-studios.web-one1aura.workers.dev/) · [Discord support and community](https://discord.gg/BMcST6NaZS) · [Donate](https://cash.app/$one1aura) · [Collaborations](mailto:godscripters@gmail.com)

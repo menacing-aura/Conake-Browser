@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" fill="none">
+  <defs>
+    <linearGradient id="shell" x1="28" y1="15" x2="238" y2="256" gradientUnits="userSpaceOnUse"><stop stop-color="#251323"/><stop offset="1" stop-color="#080811"/></linearGradient>
+    <linearGradient id="ember" x1="67" y1="42" x2="181" y2="217" gradientUnits="userSpaceOnUse"><stop stop-color="#ffb0c5"/><stop offset=".38" stop-color="#ff4970"/><stop offset="1" stop-color="#c81f4e"/></linearGradient>
+    <linearGradient id="edge" x1="46" y1="31" x2="214" y2="233" gradientUnits="userSpaceOnUse"><stop stop-color="#ff6a8b" stop-opacity=".65"/><stop offset="1" stop-color="#77335e" stop-opacity=".2"/></linearGradient>
+  </defs>
+  <rect x="7" y="7" width="242" height="242" rx="65" fill="url(#shell)"/>
+  <rect x="8" y="8" width="240" height="240" rx="64" stroke="url(#edge)" stroke-width="2"/>
+  <circle cx="126" cy="128" r="91" stroke="#ff4c76" stroke-opacity=".15" stroke-width="1.5"/>
+  <path d="M182 67a77 77 0 1 0-1 123" stroke="#520e2a" stroke-width="37" stroke-linecap="round" transform="translate(2 5)"/>
+  <path d="M182 67a77 77 0 1 0-1 123" stroke="url(#ember)" stroke-width="29" stroke-linecap="round"/>
+  <path d="M190 44c16 4 27 19 23 33l-22 10-25-24 8-16 16-3Z" fill="#ff6386"/>
+  <path d="m192 48 17 18-21-3-12-13 16-2Z" fill="#ffb5c9" fill-opacity=".72"/>
+  <path d="m192 65 12 2-6 7-8-2 2-7Z" fill="#160914"/>
+  <path d="m203 85 12 7-9 2 5 7" stroke="#ff5e83" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="m172 183 30 10-30 16 3-16-3-10Z" fill="#d52a57"/>
+  <path d="m58 43 3.7 10.3L72 57l-10.3 3.7L58 71l-3.7-10.3L44 57l10.3-3.7L58 43Z" fill="#ffe5ed"/>
+  <path d="M89 68a67 67 0 0 0-24 91" stroke="#ffb8ce" stroke-opacity=".45" stroke-width="2" stroke-linecap="round"/>
+</svg>
