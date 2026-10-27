@@ -1,20 +1,22 @@
 # Conake Browser downloads
 
-Download **v0.1.13** to install Conake Browser. No source checkout or Node.js is needed.
+Download **v0.1.14** to install Conake Browser. No source checkout or Node.js is needed.
 
 ![Conake Browser logo](conake-browser-logo.svg)
 
-**New in this version:** an extension manager and the [Conake Extension Store](https://conake-extensions.web-one1aura.workers.dev/), where creators can publish JavaScript and CSS content scripts. Review source and website access before installing; creator submissions are not automatically reviewed. Enable extension mode, then lock and sign in again. The store supports a limited content-script format, not arbitrary Chrome Web Store packages.
+**New in this version:** Snake Run, Conake's bundled offline arcade game. Jump over crystal spikes, duck under drones, collect glowing orbs, and chase your best score. Open it from the new-tab page, Navigate → Snake Run, a connection-error page, or `conake://snake-run`. Keyboard and touch controls, pause, optional sound, and encrypted local best scores are included.
+
+[Play Snake Run on the web](https://conake-studios.web-one1aura.workers.dev/snake-run/). Visit once online to cache it for offline use in that browser.
 
 | Your computer | Installer |
 | --- | --- |
-| Linux Mint / Ubuntu / Debian | [Linux · .deb](https://github.com/menacing-aura/ConakeBrowser-Downloads/releases/download/v0.1.13/conake-browser_0.1.13_amd64.deb) |
-| Other Linux desktops | [Linux · AppImage](https://github.com/menacing-aura/ConakeBrowser-Downloads/releases/download/v0.1.13/ConakeBrowser-0.1.13-linux-x86_64.AppImage) |
-| Windows | [Windows · .exe](https://github.com/menacing-aura/ConakeBrowser-Downloads/releases/download/v0.1.13/ConakeBrowser-0.1.13-win-x64.exe) |
-| Mac · Apple Silicon | [Mac · arm64 .dmg](https://github.com/menacing-aura/ConakeBrowser-Downloads/releases/download/v0.1.13/ConakeBrowser-0.1.13-mac-arm64.dmg) |
-| Mac · Intel | [Mac · x64 .dmg](https://github.com/menacing-aura/ConakeBrowser-Downloads/releases/download/v0.1.13/ConakeBrowser-0.1.13-mac-x64.dmg) |
+| Linux Mint / Ubuntu / Debian | [Linux · .deb](https://github.com/menacing-aura/ConakeBrowser-Downloads/releases/download/v0.1.14/conake-browser_0.1.14_amd64.deb) |
+| Other Linux desktops | [Linux · AppImage](https://github.com/menacing-aura/ConakeBrowser-Downloads/releases/download/v0.1.14/ConakeBrowser-0.1.14-linux-x86_64.AppImage) |
+| Windows | [Windows · .exe](https://github.com/menacing-aura/ConakeBrowser-Downloads/releases/download/v0.1.14/ConakeBrowser-0.1.14-win-x64.exe) |
+| Mac · Apple Silicon | [Mac · arm64 .dmg](https://github.com/menacing-aura/ConakeBrowser-Downloads/releases/download/v0.1.14/ConakeBrowser-0.1.14-mac-arm64.dmg) |
+| Mac · Intel | [Mac · x64 .dmg](https://github.com/menacing-aura/ConakeBrowser-Downloads/releases/download/v0.1.14/ConakeBrowser-0.1.14-mac-x64.dmg) |
 
-[Release notes](https://github.com/menacing-aura/ConakeBrowser-Downloads/releases/tag/v0.1.13) · [SHA-256 checksums](https://github.com/menacing-aura/ConakeBrowser-Downloads/releases/download/v0.1.13/SHA256SUMS.txt)
+[Release notes](https://github.com/menacing-aura/ConakeBrowser-Downloads/releases/tag/v0.1.14) · [SHA-256 checksums](https://github.com/menacing-aura/ConakeBrowser-Downloads/releases/download/v0.1.14/SHA256SUMS.txt)
 
 On first launch, create a local account with a password of at least 12 characters. Sign in to unlock your encrypted bookmarks, history, settings, and API keys. Click **Lock** to sign out. Accounts stay on this computer; there is no cloud sync or password recovery. Website sessions end on sign-out or restart. Extension mode uses temporary disk-backed storage which is cleared on a normal lock or exit; a crash can leave files behind. Downloaded files remain ordinary files outside the encrypted profile.
 

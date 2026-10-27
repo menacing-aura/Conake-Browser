@@ -1,14 +1,18 @@
-# Conake Browser v0.1.13 — Extensions
+# Conake Browser v0.1.14 — Snake Run
 
-Explore the [Conake Extension Store](https://conake-extensions.web-one1aura.workers.dev/) and open **Extensions** in the browser to review source code and requested website access, then install, enable, disable, or remove an extension. Refresh matching pages after enabling one.
+The internet can take a break. Your snake does not have to.
 
-Creators can make a separate store account and publish JavaScript or CSS content scripts. Creator code is not automatically reviewed. Store accounts do not have password recovery.
+**Snake Run** is Conake's new offline arcade game. Jump over crystal spikes, duck under drones, grab glowing orbs, and try to survive the increasing speed. Open it from the new-tab page, **Navigate → Snake Run**, a connection-error page, or `conake://snake-run`.
 
-Extension mode is opt-in: enable it, lock the browser, and sign in again. This mode temporarily stores website session data on disk and clears it on a normal lock or exit; a crash can leave temporary files. Conake's initial extension format supports HTTP/HTTPS content scripts, not arbitrary Chrome Web Store packages or every Chrome extension API.
+- Space / Up / W to jump. Hold Down / S to duck. P / Escape to pause.
+- Touch controls, restart, and optional sound (off by default).
+- Best scores saved in your encrypted local account.
+- Bundled game files: no internet, extra download, or store account needed.
 
-Close Conake before installing, then reopen it. Choose the .exe for Windows, .deb or AppImage for Linux, or the matching .dmg for your Mac. SHA256SUMS.txt contains installer checksums.
+[Play on the website](https://conake-studios.web-one1aura.workers.dev/snake-run/) or explore the refreshed [Extension Store + Arcade](https://conake-extensions.web-one1aura.workers.dev/). The web version caches after your first online visit; web scores stay on that device.
 
-Community: https://discord.gg/BMcST6NaZS
-Donations: https://cash.app/$one1aura
-Work and collaboration: godscripters@gmail.com
-Official site: https://conake-studios.web-one1aura.workers.dev/
+All 52 automated tests pass. Linux Electron checks cover controls, collisions, pause, saved scores, narrow layouts, and web-game reload with the server stopped and network access disabled. Installers are built for Windows, Linux, Intel Mac, and Apple Silicon Mac. SHA256SUMS.txt contains the installer checksums.
+
+Close Conake before updating, then reopen and sign in. Existing extensions, themes, encrypted accounts, clipboard menus, and tab fixes are included.
+
+[Community](https://discord.gg/BMcST6NaZS) · [Donate](https://cash.app/$one1aura) · Collaborations: godscripters@gmail.com
