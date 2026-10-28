@@ -25,16 +25,16 @@
 
 <table>
   <tr>
-    <td width="33%" align="center">
+    <td width="33%" align="center" valign="top">
       <a href="https://github.com/menacing-aura/ConakeBrowser-Downloads/releases/download/v0.1.14/ConakeBrowser-0.1.14-win-x64.exe"><img src="assets/readme/download-windows.svg" width="280" alt="Download Conake Browser for Windows x64 — EXE installer"></a><br>
       <a href="https://github.com/menacing-aura/ConakeBrowser-Downloads/releases/download/v0.1.14/ConakeBrowser-0.1.14-win-x64.exe"><strong>Windows · .exe ↓</strong></a>
     </td>
-    <td width="33%" align="center">
+    <td width="33%" align="center" valign="top">
       <a href="https://github.com/menacing-aura/ConakeBrowser-Downloads/releases/download/v0.1.14/conake-browser_0.1.14_amd64.deb"><img src="assets/readme/download-linux.svg" width="280" alt="Download Conake Browser for Linux x64 — Debian installer"></a><br>
       <a href="https://github.com/menacing-aura/ConakeBrowser-Downloads/releases/download/v0.1.14/conake-browser_0.1.14_amd64.deb"><strong>Ubuntu / Mint / Debian · .deb ↓</strong></a><br>
-      <a href="https://github.com/menacing-aura/ConakeBrowser-Downloads/releases/download/v0.1.14/ConakeBrowser-0.1.14-linux-x86_64.AppImage">Other Linux desktops · AppImage ↓</a>
+      <a href="https://github.com/menacing-aura/ConakeBrowser-Downloads/releases/download/v0.1.14/ConakeBrowser-0.1.14-linux-x86_64.AppImage">Other Linux · AppImage ↓</a>
     </td>
-    <td width="33%" align="center">
+    <td width="33%" align="center" valign="top">
       <a href="https://github.com/menacing-aura/ConakeBrowser-Downloads/releases/download/v0.1.14/ConakeBrowser-0.1.14-mac-arm64.dmg"><img src="assets/readme/download-macos.svg" width="280" alt="Download Conake Browser for macOS Apple Silicon — DMG installer"></a><br>
       <a href="https://github.com/menacing-aura/ConakeBrowser-Downloads/releases/download/v0.1.14/ConakeBrowser-0.1.14-mac-arm64.dmg"><strong>Apple Silicon · .dmg ↓</strong></a><br>
       <a href="https://github.com/menacing-aura/ConakeBrowser-Downloads/releases/download/v0.1.14/ConakeBrowser-0.1.14-mac-x64.dmg">Intel Mac · .dmg ↓</a>
