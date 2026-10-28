@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="282" viewBox="0 0 1200 282" role="img" aria-labelledby="title desc">
+  <title id="title">Snake Run — Offline. On a run.</title>
+  <desc id="desc">A crimson snake jumps crystal spikes under an eclipse. Jump crystals, duck drones, and chase your best in Conake's bundled offline runner.</desc>
+  <defs>
+    <linearGradient id="night" x2="1" y2=".3"><stop stop-color="#2d1127"/><stop offset="1" stop-color="#110c1b"/></linearGradient>
+    <linearGradient id="snake" x2="1" y2=".5"><stop stop-color="#9a225c"/><stop offset=".6" stop-color="#ff4b81"/><stop offset="1" stop-color="#ffacc9"/></linearGradient>
+    <linearGradient id="crystal" x2=".7" y2="1"><stop stop-color="#ffa6cd"/><stop offset=".45" stop-color="#b13a86"/><stop offset="1" stop-color="#3c174d"/></linearGradient>
+    <clipPath id="frame"><rect width="1200" height="282" rx="18"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="282" fill="url(#night)"/>
+    <circle cx="1000" cy="110" r="103" fill="#c02d67" fill-opacity=".08"/>
+    <circle cx="1000" cy="110" r="81" fill="#ff5986" fill-opacity=".09" stroke="#ff6eab" stroke-opacity=".35"/>
+    <circle cx="1016" cy="98" r="76" fill="#190d22"/>
+    <path d="M700 221h52v-48h31v48h37v-66h24v66h34v-34h45v34h36v-60h31v60h48v-38h26v38h45v-53h36v53h70" fill="#3b183a" fill-opacity=".6"/>
+    <path d="M660 232h540" stroke="#ff5788" stroke-opacity=".45"/>
+    <path d="m870 232 24-66 20 44 14-14 18 36Z" fill="url(#crystal)" stroke="#d367ae"/>
+    <path d="m894 166 5 66" stroke="#ed9cce" stroke-opacity=".5"/>
+    <path d="M740 166c33 4 26-31 62-29 36 2 28 36 64 29 36-7 28-63 65-67 36-4 49 22 86 11" fill="none" stroke="#5d1744" stroke-width="28" stroke-linecap="round" transform="translate(0 5)"/>
+    <path d="M740 166c33 4 26-31 62-29 36 2 28 36 64 29 36-7 28-63 65-67 36-4 49 22 86 11" fill="none" stroke="url(#snake)" stroke-width="22" stroke-linecap="round" stroke-dasharray="9 3"/>
+    <path d="m1014 96 25-4 22 16-18 17-31-6Z" fill="#ff91b6"/>
+    <path d="m1040 102 12 7-11 3Z" fill="#230c23"/>
+    <path d="m1060 116 12 4-5 8m5-8 8 5" fill="none" stroke="#ff719f" stroke-width="2"/>
+    <path d="m1097 181 10-17 10 17-10 17Z" fill="#f5b9ff"/>
+    <path d="m1119 133 5-10 5 10-5 10Z" fill="#ffc5dc"/>
+    <path d="M1111 63h46m-39 7h30m-11 6h28" stroke="#ad507f" stroke-opacity=".6"/>
+    <text x="38" y="39" fill="#ff87ae" font-family="Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="3">CONAKE ARCADE / SNAKE RUN</text>
+    <text x="35" y="105" fill="#fff1f8" font-family="Arial, sans-serif" font-size="55" font-weight="900" letter-spacing="-2">OFFLINE.</text>
+    <text x="35" y="160" fill="#ff719c" font-family="Arial, sans-serif" font-size="55" font-weight="900" letter-spacing="-2">ON A RUN.</text>
+    <text x="38" y="196" fill="#cba8c1" font-family="Arial, sans-serif" font-size="17">Jump crystals. Duck drones. Chase your best.</text>
+    <rect x="38" y="219" width="213" height="37" rx="8" fill="#f85c8b"/>
+    <text x="57" y="243" fill="#2d0c25" font-family="Arial, sans-serif" font-size="13" font-weight="700">PLAY SNAKE RUN ↗</text>
+    <text x="273" y="243" fill="#bd87a6" font-family="monospace" font-size="12">BUNDLED IN CONAKE</text>
+    <rect x=".5" y=".5" width="1199" height="281" rx="17.5" fill="none" stroke="#71314f"/>
+  </g>
+</svg>

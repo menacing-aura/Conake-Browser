@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="124" viewBox="0 0 300 124" role="img" aria-labelledby="title desc">
+  <title id="title">Download for Windows</title>
+  <desc id="desc">x64 · EXE INSTALLER</desc>
+  <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#2d1528"/><stop offset="1" stop-color="#150e1c"/></linearGradient></defs>
+  <rect x="1" y="1" width="298" height="122" rx="14" fill="url(#bg)" stroke="#79334f"/>
+  <path d="M20 1h62" stroke="#ff5c88" stroke-width="2"/>
+  <path d="M29 33h15v15H29Zm18 0h15v15H47ZM29 51h15v15H29Zm18 0h15v15H47Z" fill="#ff9cba"/>
+  <text x="82" y="54" fill="#fff1f7" font-family="Arial, sans-serif" font-size="25" font-weight="700">Windows</text>
+  <text x="29" y="96" fill="#c78ca8" font-family="Arial, sans-serif" font-size="11" font-weight="700" letter-spacing=".7">x64 · EXE INSTALLER</text>
+  <circle cx="265" cy="47" r="16" fill="#4a1c36"/>
+  <path d="M265 39v15m-6-6 6 6 6-6" stroke="#ff96b6" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
