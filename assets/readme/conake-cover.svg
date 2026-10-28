@@ -1,29 +1,31 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430" role="img" aria-labelledby="title desc">
-  <title id="title">Conake Browser — Your next arc starts here</title>
-  <desc id="desc">Crimson Eclipse artwork with the Conake serpent emblem, a red eclipse, and sharp anime-inspired speed lines.</desc>
+  <title id="title">Conake Browser by Conake Studio — Your next arc starts here</title>
+  <desc id="desc">Crimson manga panels, a serpent eclipse emblem, and bright orbital lines. Official desktop releases. Copyright 2026 Conake Studio.</desc>
   <defs>
-    <linearGradient id="back" x2="1" y2="1"><stop stop-color="#1f101c"/><stop offset=".53" stop-color="#0c0912"/><stop offset="1" stop-color="#210b1a"/></linearGradient>
-    <radialGradient id="eclipse"><stop stop-color="#ff375f" stop-opacity=".27"/><stop offset="1" stop-color="#ff375f" stop-opacity="0"/></radialGradient>
-    <linearGradient id="type" x2=".9" y2="1"><stop stop-color="#fff4f7"/><stop offset="1" stop-color="#ffa7bd"/></linearGradient>
+    <linearGradient id="back" x2="1" y2="1"><stop stop-color="#21101e"/><stop offset=".56" stop-color="#0a0911"/><stop offset="1" stop-color="#290c22"/></linearGradient>
+    <linearGradient id="panel" x2="1" y2=".6"><stop stop-color="#42112b" stop-opacity=".25"/><stop offset="1" stop-color="#6c1539" stop-opacity=".4"/></linearGradient>
+    <linearGradient id="silver" x2=".6" y2="1"><stop stop-color="#fff9fc"/><stop offset="1" stop-color="#ffb6cf"/></linearGradient>
     <linearGradient id="flare" x2="1" y2=".5"><stop stop-color="#ff436e" stop-opacity="0"/><stop offset=".6" stop-color="#ff436e"/><stop offset="1" stop-color="#ffb1c7"/></linearGradient>
-    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#ff759f" stroke-opacity=".035"/></pattern>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#ff759f" stroke-opacity=".04"/></pattern>
+    <pattern id="dots" width="10" height="10" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.2" fill="#ff729a" fill-opacity=".17"/></pattern>
     <clipPath id="frame"><rect width="1200" height="430" rx="24"/></clipPath>
   </defs>
   <g clip-path="url(#frame)">
     <rect width="1200" height="430" fill="url(#back)"/>
     <rect width="1200" height="430" fill="url(#grid)"/>
-    <circle cx="990" cy="208" r="285" fill="url(#eclipse)"/>
-    <path d="M887-40 605 470h88l282-510Z" fill="#fb3d69" fill-opacity=".045"/>
-    <path d="m886-30-282 490M915-30 633 460" stroke="#ff698d" stroke-opacity=".14"/>
-    <circle cx="982" cy="207" r="164" fill="#1a0d1b" stroke="#ff486f" stroke-opacity=".64"/>
-    <circle cx="982" cy="207" r="184" fill="none" stroke="#b94468" stroke-opacity=".24" stroke-dasharray="3 12"/>
-    <circle cx="982" cy="207" r="154" fill="none" stroke="#ff567e" stroke-opacity=".16" stroke-width="10"/>
-    <path d="m771 333 49-49h33l28-28h82l32-32h190" fill="none" stroke="url(#flare)" stroke-width="1.5"/>
-    <path d="M755 72h47l15-15h102M1070 345h86l36-36" fill="none" stroke="#ff6087" stroke-opacity=".38"/>
-    <path d="m1139 40 4 12 12 4-12 4-4 12-4-12-12-4 12-4Z" fill="#ffb1c8"/>
-    <circle cx="805" cy="212" r="3" fill="#ff7197"/>
-    <circle cx="1125" cy="304" r="3" fill="#ff7197"/>
-    <svg x="854" y="79" width="256" height="256" viewBox="0 0 256 256" fill="none">
+    <path d="M849 0h351v430H605Z" fill="url(#panel)"/>
+    <path d="M824 0 579 430M851 0 606 430" stroke="#ff638e" stroke-opacity=".22"/>
+    <path d="M839 0 594 430" stroke="#ff6e9a" stroke-opacity=".08" stroke-width="9"/>
+    <path d="M951 20h249v390H731Z" fill="url(#dots)"/>
+    <circle cx="984" cy="205" r="170" fill="#180d1c" stroke="#ff557f" stroke-opacity=".6"/>
+    <circle cx="984" cy="205" r="180" fill="none" stroke="#ff608f" stroke-width="2" stroke-opacity=".12"/>
+    <circle cx="984" cy="205" r="153" fill="none" stroke="#ff567e" stroke-opacity=".12" stroke-width="15"/>
+    <path d="M1022 31a180 180 0 0 1 131 123M824 289a180 180 0 0 0 123 94" fill="none" stroke="#ff7ea6" stroke-width="3" stroke-linecap="round"/>
+    <path d="M701 354h71l36-36h41l28-28h82l32-32h209" fill="none" stroke="url(#flare)" stroke-width="1.5"/>
+    <path d="M743 74h59l17-17h100M1074 349h90l36-36" fill="none" stroke="#ff6087" stroke-opacity=".44"/>
+    <path d="m1144 36 4 12 12 4-12 4-4 12-4-12-12-4 12-4Zm-351 190 3 8 8 3-8 3-3 8-3-8-8-3 8-3Z" fill="#ffb1c8"/>
+    <path d="m1122 324 12-20 12 20-12 20Z" fill="#ef759d" fill-opacity=".4"/>
+    <svg x="856" y="77" width="256" height="256" viewBox="0 0 256 256" fill="none">
   <defs>
     <linearGradient id="shell" x1="28" y1="15" x2="238" y2="256" gradientUnits="userSpaceOnUse"><stop stop-color="#251323"/><stop offset="1" stop-color="#080811"/></linearGradient>
     <linearGradient id="ember" x1="67" y1="42" x2="181" y2="217" gradientUnits="userSpaceOnUse"><stop stop-color="#ffb0c5"/><stop offset=".38" stop-color="#ff4970"/><stop offset="1" stop-color="#c81f4e"/></linearGradient>
@@ -43,15 +45,17 @@
   <path d="M89 68a67 67 0 0 0-24 91" stroke="#ffb8ce" stroke-opacity=".45" stroke-width="2" stroke-linecap="round"/>
 </svg>
     <path d="M44 46h26m-26 0v16" fill="none" stroke="#ff6388" stroke-width="2"/>
-    <text x="84" y="57" fill="#e395b0" font-family="Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="3">CONAKE STUDIOS / DESKTOP</text>
-    <text x="44" y="116" fill="#fff0f6" font-family="Arial, sans-serif" font-size="32" font-weight="700" letter-spacing="3">CONAKE BROWSER</text>
-    <text x="40" y="204" fill="url(#type)" font-family="Arial, sans-serif" font-size="70" font-weight="900" letter-spacing="-3">YOUR NEXT</text>
-    <text x="40" y="276" fill="#ff557e" font-family="Arial, sans-serif" font-size="62" font-weight="900" letter-spacing="-3">ARC STARTS HERE.</text>
-    <text x="44" y="319" fill="#c3a5b8" font-family="Arial, sans-serif" font-size="18">Anime-inspired browsing. Your own space. An offline arcade.</text>
-    <rect x="44" y="355" width="327" height="36" rx="18" fill="#301225" stroke="#6f2b47"/>
-    <circle cx="62" cy="373" r="4" fill="#ff7296"/>
-    <text x="78" y="378" fill="#f2bdd0" font-family="Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="1">WINDOWS · LINUX · macOS</text>
-    <text x="1160" y="391" text-anchor="end" fill="#bd6e8e" font-family="monospace" font-size="12" letter-spacing="2">01 / CRIMSON ECLIPSE</text>
+    <text x="84" y="57" fill="#e395b0" font-family="Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="3">CONAKE STUDIO / OFFICIAL RELEASES</text>
+    <text x="40" y="133" fill="url(#silver)" font-family="Arial, sans-serif" font-size="74" font-weight="900" letter-spacing="-2">CONAKE</text>
+    <text x="374" y="131" fill="#eb9bb6" font-family="Arial, sans-serif" font-size="24" font-weight="700" letter-spacing="5">BROWSER</text>
+    <path d="M44 159h74m14 0h483" stroke="#cc476c" stroke-opacity=".4"/>
+    <text x="41" y="225" fill="#fff1f8" font-family="Arial, sans-serif" font-size="59" font-weight="900" letter-spacing="-2.5">YOUR NEXT ARC.</text>
+    <text x="44" y="273" fill="#ff5b89" font-family="Arial, sans-serif" font-size="40" font-weight="700" letter-spacing="-1">Starts here.</text>
+    <text x="44" y="314" fill="#c6a6ba" font-family="Arial, sans-serif" font-size="17">Anime themes · Community extensions · Offline arcade</text>
+    <rect x="44" y="353" width="325" height="37" rx="18.5" fill="#301225" stroke="#7f3052"/>
+    <circle cx="63" cy="371.5" r="4" fill="#ff7296"/>
+    <text x="79" y="376" fill="#f2bdd0" font-family="Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="1">WINDOWS · LINUX · macOS</text>
+    <text x="1160" y="392" text-anchor="end" fill="#d08aa7" font-family="Arial, sans-serif" font-size="12" letter-spacing="1">© 2026 CONAKE STUDIO</text>
     <path d="M0 425h1200" stroke="#ff456e" stroke-opacity=".32"/>
     <path d="M44 425h130" stroke="#ff6087" stroke-width="3"/>
     <rect x=".5" y=".5" width="1199" height="429" rx="23.5" fill="none" stroke="#7c304f" stroke-opacity=".6"/>

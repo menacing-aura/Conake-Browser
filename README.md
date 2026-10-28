@@ -1,18 +1,18 @@
 <p align="center">
-  <a href="https://menacing-aura.github.io/ConakeBrowser-Downloads/">
-    <img src="assets/readme/conake-cover.svg" alt="Conake Browser — Your next arc. Crimson Eclipse desktop browser by Conake Studios." width="100%">
+  <a href="https://menacing-aura.github.io/Conake-Browser/">
+    <img src="assets/readme/conake-cover.svg" alt="Conake Browser — Your next arc. Crimson Eclipse desktop browser by Conake Studio." width="100%">
   </a>
 </p>
 
 <p align="center">
-  <strong>ANIME ECLIPSE · v0.1.14</strong><br>
+  <strong>CONAKE BROWSER · ANIME ECLIPSE · v0.1.14</strong><br>
   Your browser. Your aesthetic. A little arcade chaos.
 </p>
 
 <p align="center">
-  <a href="https://menacing-aura.github.io/ConakeBrowser-Downloads/"><strong>Download center ↗</strong></a>
+  <a href="https://menacing-aura.github.io/Conake-Browser/"><strong>Download center ↗</strong></a>
   &nbsp;·&nbsp;
-  <a href="https://conake-studios.web-one1aura.workers.dev/">Conake Studios</a>
+  <a href="https://conake-studios.web-one1aura.workers.dev/">Conake Studio</a>
   &nbsp;·&nbsp;
   <a href="https://conake-extensions.web-one1aura.workers.dev/">Extension Store</a>
   &nbsp;·&nbsp;
@@ -26,28 +26,28 @@
 <table>
   <tr>
     <td width="33%" align="center" valign="top">
-      <a href="https://github.com/menacing-aura/ConakeBrowser-Downloads/releases/download/v0.1.14/ConakeBrowser-0.1.14-win-x64.exe"><img src="assets/readme/download-windows.svg" width="280" alt="Download Conake Browser for Windows x64 — EXE installer"></a><br>
-      <a href="https://github.com/menacing-aura/ConakeBrowser-Downloads/releases/download/v0.1.14/ConakeBrowser-0.1.14-win-x64.exe"><strong>Windows · .exe ↓</strong></a>
+      <a href="https://github.com/menacing-aura/Conake-Browser/releases/download/v0.1.14/ConakeBrowser-0.1.14-win-x64.exe"><img src="assets/readme/download-windows.svg" width="280" alt="Download Conake Browser for Windows x64 — EXE installer"></a><br>
+      <a href="https://github.com/menacing-aura/Conake-Browser/releases/download/v0.1.14/ConakeBrowser-0.1.14-win-x64.exe"><strong>Windows · .exe ↓</strong></a>
     </td>
     <td width="33%" align="center" valign="top">
-      <a href="https://github.com/menacing-aura/ConakeBrowser-Downloads/releases/download/v0.1.14/conake-browser_0.1.14_amd64.deb"><img src="assets/readme/download-linux.svg" width="280" alt="Download Conake Browser for Linux x64 — Debian installer"></a><br>
-      <a href="https://github.com/menacing-aura/ConakeBrowser-Downloads/releases/download/v0.1.14/conake-browser_0.1.14_amd64.deb"><strong>Ubuntu / Mint / Debian · .deb ↓</strong></a><br>
-      <a href="https://github.com/menacing-aura/ConakeBrowser-Downloads/releases/download/v0.1.14/ConakeBrowser-0.1.14-linux-x86_64.AppImage">Other Linux · AppImage ↓</a>
+      <a href="https://github.com/menacing-aura/Conake-Browser/releases/download/v0.1.14/conake-browser_0.1.14_amd64.deb"><img src="assets/readme/download-linux.svg" width="280" alt="Download Conake Browser for Linux x64 — Debian installer"></a><br>
+      <a href="https://github.com/menacing-aura/Conake-Browser/releases/download/v0.1.14/conake-browser_0.1.14_amd64.deb"><strong>Ubuntu / Mint / Debian · .deb ↓</strong></a><br>
+      <a href="https://github.com/menacing-aura/Conake-Browser/releases/download/v0.1.14/ConakeBrowser-0.1.14-linux-x86_64.AppImage">Other Linux · AppImage ↓</a>
     </td>
     <td width="33%" align="center" valign="top">
-      <a href="https://github.com/menacing-aura/ConakeBrowser-Downloads/releases/download/v0.1.14/ConakeBrowser-0.1.14-mac-arm64.dmg"><img src="assets/readme/download-macos.svg" width="280" alt="Download Conake Browser for macOS Apple Silicon — DMG installer"></a><br>
-      <a href="https://github.com/menacing-aura/ConakeBrowser-Downloads/releases/download/v0.1.14/ConakeBrowser-0.1.14-mac-arm64.dmg"><strong>Apple Silicon · .dmg ↓</strong></a><br>
-      <a href="https://github.com/menacing-aura/ConakeBrowser-Downloads/releases/download/v0.1.14/ConakeBrowser-0.1.14-mac-x64.dmg">Intel Mac · .dmg ↓</a>
+      <a href="https://github.com/menacing-aura/Conake-Browser/releases/download/v0.1.14/ConakeBrowser-0.1.14-mac-arm64.dmg"><img src="assets/readme/download-macos.svg" width="280" alt="Download Conake Browser for macOS Apple Silicon — DMG installer"></a><br>
+      <a href="https://github.com/menacing-aura/Conake-Browser/releases/download/v0.1.14/ConakeBrowser-0.1.14-mac-arm64.dmg"><strong>Apple Silicon · .dmg ↓</strong></a><br>
+      <a href="https://github.com/menacing-aura/Conake-Browser/releases/download/v0.1.14/ConakeBrowser-0.1.14-mac-x64.dmg">Intel Mac · .dmg ↓</a>
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <a href="https://github.com/menacing-aura/ConakeBrowser-Downloads/releases/tag/v0.1.14">What's new in v0.1.14</a>
+  <a href="https://github.com/menacing-aura/Conake-Browser/releases/tag/v0.1.14">What's new in v0.1.14</a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/menacing-aura/ConakeBrowser-Downloads/releases/download/v0.1.14/SHA256SUMS.txt">SHA-256 checksums</a>
+  <a href="https://github.com/menacing-aura/Conake-Browser/releases/download/v0.1.14/SHA256SUMS.txt">SHA-256 checksums</a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/menacing-aura/ConakeBrowser-Downloads/releases">All releases</a>
+  <a href="https://github.com/menacing-aura/Conake-Browser/releases">All releases</a>
 </p>
 
 > **Installing Conake?** Pick an installer above. GitHub's **Code → Download ZIP** and **Source code** archives contain this download website's files.
@@ -112,7 +112,7 @@ Use **Ctrl+C**, **Ctrl+X**, **Ctrl+V**, and **Ctrl+A** for copy, cut, paste, and
 <details>
 <summary><strong>Installer checksums</strong></summary>
 
-Download **[SHA256SUMS.txt](https://github.com/menacing-aura/ConakeBrowser-Downloads/releases/download/v0.1.14/SHA256SUMS.txt)** into the same folder as your installer. Compare your file's SHA-256 hash with its entry in the checksum file:
+Download **[SHA256SUMS.txt](https://github.com/menacing-aura/Conake-Browser/releases/download/v0.1.14/SHA256SUMS.txt)** into the same folder as your installer. Compare your file's SHA-256 hash with its entry in the checksum file:
 
 **Windows · PowerShell**
 
@@ -155,7 +155,6 @@ Only download-page assets belong in this repository. Application source archives
 
 <p align="center">
   <br>
-  <img src="conake-browser-logo.svg" width="42" alt="Conake serpent emblem"><br>
-  <strong>CONAKE STUDIOS</strong><br>
-  <sub>Your next arc starts here.</sub>
+  <img src="assets/readme/conake-studio.svg" width="100%" alt="Made by Conake Studio — Your next arc starts here."><br>
+  <sub>© 2026 Conake Studio. All rights reserved. · <a href="COPYRIGHT.txt">Copyright notice</a></sub>
 </p>
