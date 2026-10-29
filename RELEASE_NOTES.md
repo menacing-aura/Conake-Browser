@@ -1,18 +1,16 @@
-# Conake Browser v0.1.15 — Tab Studio
+# Conake Browser v0.1.16 — Eclipse Window
 
-Your tabs. Your rules.
+Your space. Your view.
 
-- Drag tabs left or right to rearrange them without reloading the page.
-- Pin your essentials at the front. Up to 40 pinned tabs, including their order, addresses, custom names, and colors, are saved in your encrypted local account and reopen after sign-in.
-- Open **Tab Studio** beside the + button to rename a tab, choose a preset or any custom accent color, pin it, and pick compact, comfortable, or roomy tab sizes.
-- Right-click a tab for duplicate, mute/unmute, move, close other unpinned tabs, and close unpinned tabs to the right.
-- Reopen closed tabs with **Ctrl/Command+Shift+T**. Move the selected tab with **Ctrl/Command+Shift+PageUp/PageDown**, and switch with **Ctrl/Command+Tab**.
-- Unpinned tabs, their custom styles, and the recent closed-tab list reset when you lock or exit. Website sessions still end on lock; reopening a pinned address starts a fresh session.
-- Snake Run, community extensions, anime themes, encrypted profiles, and clipboard menus are included.
+- The browser and sign-in screen now have an Anime Eclipse title bar with matching fullscreen, minimize, maximize/restore, and close controls. The bar follows Crimson, Violet, and Midnight themes.
+- **F11** enters or leaves fullscreen; use **Control+Command+F** on Mac. **Escape** also exits browser fullscreen. Tabs and navigation stay available.
+- Open **View** in the title bar for fullscreen, maximize/restore, Compact / Comfortable / Wide window sizes, and page zoom presets from **25% to 300%**. Window presets fit the current display; exit fullscreen before choosing a size.
+- Drag the title strip to move the window and its edges to resize it. Resizing and fullscreen keep your pages, typed drafts, and tab order intact.
+- Page zoom changes website content while keeping the title bar and toolbar at their normal size. Use the toolbar’s minus / percentage / plus controls or Ctrl/Command+minus / plus / 0.
+- Website HTML fullscreen fills the viewport; Escape returns to the measured browser layout.
+- Tab Studio, encrypted profiles and pins, community extensions, clipboard menus, and offline Snake Run remain included.
 
-Tab dragging stays within the current window. This release does not add tab groups or moving tabs between separate windows.
-
-58 automated checks pass. Linux desktop checks cover page drafts surviving a reorder, the Tab Studio controls, native mute and right-click actions, reopening closed tabs, narrow layouts, and encrypted pinned-tab restoration after lock/sign-in.
+65 automated checks and Linux desktop checks cover native window controls, fullscreen from both page and browser keyboard focus, HTML fullscreen, responsive toolbar/sidebar bounds, page zoom, and all three themes. Windows, Mac, and Linux installers are included.
 
 Close Conake before updating, install the package for your computer, then sign in. Verify installer hashes with SHA256SUMS.txt.
 
