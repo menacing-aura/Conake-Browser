@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <strong>CONAKE BROWSER · ANIME ECLIPSE · v0.1.14</strong><br>
+  <strong>CONAKE BROWSER · ANIME ECLIPSE · v0.1.15</strong><br>
   Your browser. Your aesthetic. A little arcade chaos.
 </p>
 
@@ -26,31 +26,39 @@
 <table>
   <tr>
     <td width="33%" align="center" valign="top">
-      <a href="https://github.com/menacing-aura/Conake-Browser/releases/download/v0.1.14/ConakeBrowser-0.1.14-win-x64.exe"><img src="assets/readme/download-windows.svg" width="280" alt="Download Conake Browser for Windows x64 — EXE installer"></a><br>
-      <a href="https://github.com/menacing-aura/Conake-Browser/releases/download/v0.1.14/ConakeBrowser-0.1.14-win-x64.exe"><strong>Windows · .exe ↓</strong></a>
+      <a href="https://github.com/menacing-aura/Conake-Browser/releases/download/v0.1.15/ConakeBrowser-0.1.15-win-x64.exe"><img src="assets/readme/download-windows.svg" width="280" alt="Download Conake Browser for Windows x64 — EXE installer"></a><br>
+      <a href="https://github.com/menacing-aura/Conake-Browser/releases/download/v0.1.15/ConakeBrowser-0.1.15-win-x64.exe"><strong>Windows · .exe ↓</strong></a>
     </td>
     <td width="33%" align="center" valign="top">
-      <a href="https://github.com/menacing-aura/Conake-Browser/releases/download/v0.1.14/conake-browser_0.1.14_amd64.deb"><img src="assets/readme/download-linux.svg" width="280" alt="Download Conake Browser for Linux x64 — Debian installer"></a><br>
-      <a href="https://github.com/menacing-aura/Conake-Browser/releases/download/v0.1.14/conake-browser_0.1.14_amd64.deb"><strong>Ubuntu / Mint / Debian · .deb ↓</strong></a><br>
-      <a href="https://github.com/menacing-aura/Conake-Browser/releases/download/v0.1.14/ConakeBrowser-0.1.14-linux-x86_64.AppImage">Other Linux · AppImage ↓</a>
+      <a href="https://github.com/menacing-aura/Conake-Browser/releases/download/v0.1.15/conake-browser_0.1.15_amd64.deb"><img src="assets/readme/download-linux.svg" width="280" alt="Download Conake Browser for Linux x64 — Debian installer"></a><br>
+      <a href="https://github.com/menacing-aura/Conake-Browser/releases/download/v0.1.15/conake-browser_0.1.15_amd64.deb"><strong>Ubuntu / Mint / Debian · .deb ↓</strong></a><br>
+      <a href="https://github.com/menacing-aura/Conake-Browser/releases/download/v0.1.15/ConakeBrowser-0.1.15-linux-x86_64.AppImage">Other Linux · AppImage ↓</a>
     </td>
     <td width="33%" align="center" valign="top">
-      <a href="https://github.com/menacing-aura/Conake-Browser/releases/download/v0.1.14/ConakeBrowser-0.1.14-mac-arm64.dmg"><img src="assets/readme/download-macos.svg" width="280" alt="Download Conake Browser for macOS Apple Silicon — DMG installer"></a><br>
-      <a href="https://github.com/menacing-aura/Conake-Browser/releases/download/v0.1.14/ConakeBrowser-0.1.14-mac-arm64.dmg"><strong>Apple Silicon · .dmg ↓</strong></a><br>
-      <a href="https://github.com/menacing-aura/Conake-Browser/releases/download/v0.1.14/ConakeBrowser-0.1.14-mac-x64.dmg">Intel Mac · .dmg ↓</a>
+      <a href="https://github.com/menacing-aura/Conake-Browser/releases/download/v0.1.15/ConakeBrowser-0.1.15-mac-arm64.dmg"><img src="assets/readme/download-macos.svg" width="280" alt="Download Conake Browser for macOS Apple Silicon — DMG installer"></a><br>
+      <a href="https://github.com/menacing-aura/Conake-Browser/releases/download/v0.1.15/ConakeBrowser-0.1.15-mac-arm64.dmg"><strong>Apple Silicon · .dmg ↓</strong></a><br>
+      <a href="https://github.com/menacing-aura/Conake-Browser/releases/download/v0.1.15/ConakeBrowser-0.1.15-mac-x64.dmg">Intel Mac · .dmg ↓</a>
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <a href="https://github.com/menacing-aura/Conake-Browser/releases/tag/v0.1.14">What's new in v0.1.14</a>
+  <a href="https://github.com/menacing-aura/Conake-Browser/releases/tag/v0.1.15">What's new in v0.1.15</a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/menacing-aura/Conake-Browser/releases/download/v0.1.14/SHA256SUMS.txt">SHA-256 checksums</a>
+  <a href="https://github.com/menacing-aura/Conake-Browser/releases/download/v0.1.15/SHA256SUMS.txt">SHA-256 checksums</a>
   &nbsp;·&nbsp;
   <a href="https://github.com/menacing-aura/Conake-Browser/releases">All releases</a>
 </p>
 
 > **Installing Conake?** Pick an installer above. GitHub's **Code → Download ZIP** and **Source code** archives contain this download website's files.
+
+## Your tabs. Your rules.
+
+Drag tabs to reorder them. Open **Tab Studio** beside the + button to rename a tab, pick a preset or custom accent color, pin it, and choose compact, comfortable, or roomy tabs.
+
+Right-click for **duplicate, mute/unmute, move, close other unpinned tabs**, and **close unpinned tabs to the right**. Reopen a closed tab with **Ctrl/Command+Shift+T**; move the selected tab with **Ctrl/Command+Shift+PageUp/PageDown**.
+
+Up to **40 pinned tabs** keep their order, addresses, names, and colors in your encrypted account and reopen after sign-in. Other tabs and their styles reset when you lock or exit; the closed-tab list resets too. Website sessions still end on lock. Dragging stays within the current window.
 
 ## Enter the Conake universe
 
@@ -64,7 +72,7 @@
   <img src="assets/readme/snake-run.svg" alt="Snake Run — Jump crystals. Duck drones. Chase your best. Play Conake's offline arcade runner." width="100%">
 </a>
 
-**Snake Run is bundled into Conake v0.1.14.** Open it from a new tab, **Navigate → Snake Run**, a connection-error page, or `conake://snake-run`. No extra game download needed.
+**Snake Run is bundled into Conake v0.1.15.** Open it from a new tab, **Navigate → Snake Run**, a connection-error page, or `conake://snake-run`. No extra game download needed.
 
 | Jump | Duck | Pause | Restart |
 | :--- | :--- | :--- | :--- |
@@ -85,7 +93,7 @@ Touch controls and optional sound are included. Your best score stays in your en
 
 Sign in to unlock your encrypted bookmarks, history, settings, download list, API keys, extensions, and Snake Run best score. Click **Lock** to sign out and close your tabs.
 
-Accounts stay on this computer. There is **no cloud sync or password recovery**, so keep your password safe. Website sessions end on sign-out or restart. Extension mode temporarily stores session data on disk and clears it during a normal lock or exit; a crash can leave temporary files behind. Downloaded files and exported backups remain ordinary files outside the encrypted profile.
+Accounts stay on this computer. There is **no cloud sync or password recovery**, so keep your password safe. Website sessions end on sign-out or restart. Pinned addresses reopen in a fresh session after you sign in. Extension mode temporarily stores session data on disk and clears it during a normal lock or exit; a crash can leave temporary files behind. Downloaded files and exported backups remain ordinary files outside the encrypted profile.
 
 </details>
 
@@ -112,24 +120,24 @@ Use **Ctrl+C**, **Ctrl+X**, **Ctrl+V**, and **Ctrl+A** for copy, cut, paste, and
 <details>
 <summary><strong>Installer checksums</strong></summary>
 
-Download **[SHA256SUMS.txt](https://github.com/menacing-aura/Conake-Browser/releases/download/v0.1.14/SHA256SUMS.txt)** into the same folder as your installer. Compare your file's SHA-256 hash with its entry in the checksum file:
+Download **[SHA256SUMS.txt](https://github.com/menacing-aura/Conake-Browser/releases/download/v0.1.15/SHA256SUMS.txt)** into the same folder as your installer. Compare your file's SHA-256 hash with its entry in the checksum file:
 
 **Windows · PowerShell**
 
 ```powershell
-Get-FileHash .\ConakeBrowser-0.1.14-win-x64.exe -Algorithm SHA256
+Get-FileHash .\ConakeBrowser-0.1.15-win-x64.exe -Algorithm SHA256
 ```
 
 **Linux**
 
 ```sh
-sha256sum conake-browser_0.1.14_amd64.deb
+sha256sum conake-browser_0.1.15_amd64.deb
 ```
 
 **macOS · Apple Silicon**
 
 ```sh
-shasum -a 256 ConakeBrowser-0.1.14-mac-arm64.dmg
+shasum -a 256 ConakeBrowser-0.1.15-mac-arm64.dmg
 ```
 
 Use the filename you downloaded if you chose AppImage or an Intel Mac installer.
