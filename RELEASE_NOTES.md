@@ -1,19 +1,15 @@
-# Conake Browser v0.1.17 — Site Shield
+Your next scene.
 
-Keep your place.
+- Browser fullscreen now fills the display with the page. Use F11 or Escape to exit (Control+Command+F on Mac), Ctrl/Command+L to restore the address bar, or right-click the page for Exit Browser Fullscreen.
+- Prefer visible tabs and controls? Turn off **Settings → Search & fullscreen → Hide browser bars in fullscreen**.
+- Improve fullscreen permission handling for embedded video players in the active tab, and recover window controls after an interrupted transition.
+- Choose **Crimson Eclipse**, **Sakura Shrine**, **Neon Rain**, or **Lunar Tide** in **Settings → New tab & wallpapers**. All four wallpapers are bundled and work offline.
+- Preview wallpaper darkness and blur, shuffle each new tab, and show or hide the clock, quick links, and Snake Run card. Existing tabs keep their shuffled scene.
+- Add **Emerald Dream** and **Amber Dawn**, bringing the color-theme choices to five.
+- Choose Google, DuckDuckGo, or Bing for the address bar and new-tab search.
+- Settings now applies tab size correctly. Partial changes preserve your other preferences; Reset appearance leaves account data and AI configuration intact.
+- Site Shield, custom tabs, extensions, and offline Snake Run remain included.
 
-- Website pop-ups are blocked by default instead of becoming new active tabs.
-- Open **Site Shield** beside the address bar to see the blocked count, review an address, or change the current site's pop-up and redirect rules.
-- **Guard Cross-site Redirects** blocks top-level page jumps and replacements to another site. It is enabled by default for **enma.lol** and its subdomains; other sites can opt in through the shield menu.
-- The guard also blocks ordinary links leaving that site. Explicit address-bar navigation and **Open Link in New Tab** remain available, and embedded frames can still load.
-- A reviewed pop-up or context-menu link remembers the tab that opened it. Back uses normal page history first, then returns to that original tab when there is no history. If you closed the source, Conake reopens its address.
-- Site rules stay in your encrypted local account. Blocked-address history stays in memory and resets on leaving the site, locking, or exiting.
-- Anime window controls, fullscreen, Tab Studio, extensions, and offline Snake Run remain included.
-
-This update controls pop-ups and top-level redirects. Some in-page ads or content inside embedded frames may remain. Closed-page form and playback state cannot be recovered by reopening an address.
-
-74 automated checks and Linux desktop checks use local fixtures to verify pop-up blocking, script and HTTP redirects, embedded frames, source-tab Back, preserved drafts, normal navigation, and encrypted rule restoration.
-
-Close Conake before updating, install the package for your computer, then sign in. Verify hashes with SHA256SUMS.txt.
+Preferences stay in your encrypted local account. Close Conake before updating, install the package for your computer, then sign in. Verify hashes with SHA256SUMS.txt.
 
 [Community](https://discord.gg/BMcST6NaZS) · [Donate](https://cash.app/$one1aura) · Collaborations: godscripters@gmail.com

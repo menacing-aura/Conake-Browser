@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <strong>CONAKE BROWSER · ANIME ECLIPSE · v0.1.17</strong><br>
+  <strong>CONAKE BROWSER · ANIME ECLIPSE · v0.1.18</strong><br>
   Your browser. Your aesthetic. A little arcade chaos.
 </p>
 
@@ -26,26 +26,26 @@
 <table>
   <tr>
     <td width="33%" align="center" valign="top">
-      <a href="https://github.com/menacing-aura/Conake-Browser/releases/download/v0.1.17/ConakeBrowser-0.1.17-win-x64.exe"><img src="assets/readme/download-windows.svg" width="280" alt="Download Conake Browser for Windows x64 — EXE installer"></a><br>
-      <a href="https://github.com/menacing-aura/Conake-Browser/releases/download/v0.1.17/ConakeBrowser-0.1.17-win-x64.exe"><strong>Windows · .exe ↓</strong></a>
+      <a href="https://github.com/menacing-aura/Conake-Browser/releases/download/v0.1.18/ConakeBrowser-0.1.18-win-x64.exe"><img src="assets/readme/download-windows.svg" width="280" alt="Download Conake Browser for Windows x64 — EXE installer"></a><br>
+      <a href="https://github.com/menacing-aura/Conake-Browser/releases/download/v0.1.18/ConakeBrowser-0.1.18-win-x64.exe"><strong>Windows · .exe ↓</strong></a>
     </td>
     <td width="33%" align="center" valign="top">
-      <a href="https://github.com/menacing-aura/Conake-Browser/releases/download/v0.1.17/conake-browser_0.1.17_amd64.deb"><img src="assets/readme/download-linux.svg" width="280" alt="Download Conake Browser for Linux x64 — Debian installer"></a><br>
-      <a href="https://github.com/menacing-aura/Conake-Browser/releases/download/v0.1.17/conake-browser_0.1.17_amd64.deb"><strong>Ubuntu / Mint / Debian · .deb ↓</strong></a><br>
-      <a href="https://github.com/menacing-aura/Conake-Browser/releases/download/v0.1.17/ConakeBrowser-0.1.17-linux-x86_64.AppImage">Other Linux · AppImage ↓</a>
+      <a href="https://github.com/menacing-aura/Conake-Browser/releases/download/v0.1.18/conake-browser_0.1.18_amd64.deb"><img src="assets/readme/download-linux.svg" width="280" alt="Download Conake Browser for Linux x64 — Debian installer"></a><br>
+      <a href="https://github.com/menacing-aura/Conake-Browser/releases/download/v0.1.18/conake-browser_0.1.18_amd64.deb"><strong>Ubuntu / Mint / Debian · .deb ↓</strong></a><br>
+      <a href="https://github.com/menacing-aura/Conake-Browser/releases/download/v0.1.18/ConakeBrowser-0.1.18-linux-x86_64.AppImage">Other Linux · AppImage ↓</a>
     </td>
     <td width="33%" align="center" valign="top">
-      <a href="https://github.com/menacing-aura/Conake-Browser/releases/download/v0.1.17/ConakeBrowser-0.1.17-mac-arm64.dmg"><img src="assets/readme/download-macos.svg" width="280" alt="Download Conake Browser for macOS Apple Silicon — DMG installer"></a><br>
-      <a href="https://github.com/menacing-aura/Conake-Browser/releases/download/v0.1.17/ConakeBrowser-0.1.17-mac-arm64.dmg"><strong>Apple Silicon · .dmg ↓</strong></a><br>
-      <a href="https://github.com/menacing-aura/Conake-Browser/releases/download/v0.1.17/ConakeBrowser-0.1.17-mac-x64.dmg">Intel Mac · .dmg ↓</a>
+      <a href="https://github.com/menacing-aura/Conake-Browser/releases/download/v0.1.18/ConakeBrowser-0.1.18-mac-arm64.dmg"><img src="assets/readme/download-macos.svg" width="280" alt="Download Conake Browser for macOS Apple Silicon — DMG installer"></a><br>
+      <a href="https://github.com/menacing-aura/Conake-Browser/releases/download/v0.1.18/ConakeBrowser-0.1.18-mac-arm64.dmg"><strong>Apple Silicon · .dmg ↓</strong></a><br>
+      <a href="https://github.com/menacing-aura/Conake-Browser/releases/download/v0.1.18/ConakeBrowser-0.1.18-mac-x64.dmg">Intel Mac · .dmg ↓</a>
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <a href="https://github.com/menacing-aura/Conake-Browser/releases/tag/v0.1.17">What's new in v0.1.17</a>
+  <a href="https://github.com/menacing-aura/Conake-Browser/releases/tag/v0.1.18">What's new in v0.1.18</a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/menacing-aura/Conake-Browser/releases/download/v0.1.17/SHA256SUMS.txt">SHA-256 checksums</a>
+  <a href="https://github.com/menacing-aura/Conake-Browser/releases/download/v0.1.18/SHA256SUMS.txt">SHA-256 checksums</a>
   &nbsp;·&nbsp;
   <a href="https://github.com/menacing-aura/Conake-Browser/releases">All releases</a>
 </p>
@@ -58,9 +58,13 @@ Website pop-ups are blocked by default. Open **Site Shield** beside the address 
 
 Back from a reviewed pop-up uses its own history first, then returns to its source tab when there is no history. Site rules stay encrypted in your local account. The blocked list stays in memory. Some in-page ads or embedded-frame content may remain.
 
+## Your next scene.
+
+Four original, offline wallpapers: Crimson Eclipse, Sakura Shrine, Neon Rain, and Lunar Tide. Open **Settings → New tab & wallpapers** for the gallery, live preview, darkness, blur, shuffle, and clock / quick-link / Snake Run-card switches. Appearance includes five color themes. Search & fullscreen settings select Google, DuckDuckGo, or Bing and control whether browser bars stay visible.
+
 ## Your window. Your view.
 
-The Anime Eclipse title bar now has fullscreen, minimize, maximize/restore, and close controls that follow your theme. Use **F11** (**Control+Command+F** on Mac) or the fullscreen button; **Escape** exits browser fullscreen.
+The Anime Eclipse title bar now has fullscreen, minimize, maximize/restore, and close controls that follow your theme. Use **F11** (**Control+Command+F** on Mac) or the fullscreen button; **Escape** exits browser fullscreen. Pages fill the display by default; **Ctrl/Command+L** restores the address bar, and right-clicking the page offers **Exit Browser Fullscreen**. You can retain browser bars in Settings.
 
 Open **View** for Compact / Comfortable / Wide window sizes and page zoom presets from **25% to 300%**. Drag the title strip to move the window and its edges to resize it. Your tabs and typed drafts stay in place.
 
@@ -84,7 +88,7 @@ Up to **40 pinned tabs** keep their order, addresses, names, and colors in your 
   <img src="assets/readme/snake-run.svg" alt="Snake Run — Jump crystals. Duck drones. Chase your best. Play Conake's offline arcade runner." width="100%">
 </a>
 
-**Snake Run is bundled into Conake v0.1.17.** Open it from a new tab, **Navigate → Snake Run**, a connection-error page, or `conake://snake-run`. No extra game download needed.
+**Snake Run is bundled into Conake v0.1.18.** Open it from a new tab, **Navigate → Snake Run**, a connection-error page, or `conake://snake-run`. No extra game download needed.
 
 | Jump | Duck | Pause | Restart |
 | :--- | :--- | :--- | :--- |
@@ -132,24 +136,24 @@ Use **Ctrl+C**, **Ctrl+X**, **Ctrl+V**, and **Ctrl+A** for copy, cut, paste, and
 <details>
 <summary><strong>Installer checksums</strong></summary>
 
-Download **[SHA256SUMS.txt](https://github.com/menacing-aura/Conake-Browser/releases/download/v0.1.17/SHA256SUMS.txt)** into the same folder as your installer. Compare your file's SHA-256 hash with its entry in the checksum file:
+Download **[SHA256SUMS.txt](https://github.com/menacing-aura/Conake-Browser/releases/download/v0.1.18/SHA256SUMS.txt)** into the same folder as your installer. Compare your file's SHA-256 hash with its entry in the checksum file:
 
 **Windows · PowerShell**
 
 ```powershell
-Get-FileHash .\ConakeBrowser-0.1.17-win-x64.exe -Algorithm SHA256
+Get-FileHash .\ConakeBrowser-0.1.18-win-x64.exe -Algorithm SHA256
 ```
 
 **Linux**
 
 ```sh
-sha256sum conake-browser_0.1.17_amd64.deb
+sha256sum conake-browser_0.1.18_amd64.deb
 ```
 
 **macOS · Apple Silicon**
 
 ```sh
-shasum -a 256 ConakeBrowser-0.1.17-mac-arm64.dmg
+shasum -a 256 ConakeBrowser-0.1.18-mac-arm64.dmg
 ```
 
 Use the filename you downloaded if you chose AppImage or an Intel Mac installer.
