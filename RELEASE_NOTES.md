@@ -1,17 +1,19 @@
-# Conake Browser v0.1.16 — Eclipse Window
+# Conake Browser v0.1.17 — Site Shield
 
-Your space. Your view.
+Keep your place.
 
-- The browser and sign-in screen now have an Anime Eclipse title bar with matching fullscreen, minimize, maximize/restore, and close controls. The bar follows Crimson, Violet, and Midnight themes.
-- **F11** enters or leaves fullscreen; use **Control+Command+F** on Mac. **Escape** also exits browser fullscreen. Tabs and navigation stay available.
-- Open **View** in the title bar for fullscreen, maximize/restore, Compact / Comfortable / Wide window sizes, and page zoom presets from **25% to 300%**. Window presets fit the current display; exit fullscreen before choosing a size.
-- Drag the title strip to move the window and its edges to resize it. Resizing and fullscreen keep your pages, typed drafts, and tab order intact.
-- Page zoom changes website content while keeping the title bar and toolbar at their normal size. Use the toolbar’s minus / percentage / plus controls or Ctrl/Command+minus / plus / 0.
-- Website HTML fullscreen fills the viewport; Escape returns to the measured browser layout.
-- Tab Studio, encrypted profiles and pins, community extensions, clipboard menus, and offline Snake Run remain included.
+- Website pop-ups are blocked by default instead of becoming new active tabs.
+- Open **Site Shield** beside the address bar to see the blocked count, review an address, or change the current site's pop-up and redirect rules.
+- **Guard Cross-site Redirects** blocks top-level page jumps and replacements to another site. It is enabled by default for **enma.lol** and its subdomains; other sites can opt in through the shield menu.
+- The guard also blocks ordinary links leaving that site. Explicit address-bar navigation and **Open Link in New Tab** remain available, and embedded frames can still load.
+- A reviewed pop-up or context-menu link remembers the tab that opened it. Back uses normal page history first, then returns to that original tab when there is no history. If you closed the source, Conake reopens its address.
+- Site rules stay in your encrypted local account. Blocked-address history stays in memory and resets on leaving the site, locking, or exiting.
+- Anime window controls, fullscreen, Tab Studio, extensions, and offline Snake Run remain included.
 
-65 automated checks and Linux desktop checks cover native window controls, fullscreen from both page and browser keyboard focus, HTML fullscreen, responsive toolbar/sidebar bounds, page zoom, and all three themes. Windows, Mac, and Linux installers are included.
+This update controls pop-ups and top-level redirects. Some in-page ads or content inside embedded frames may remain. Closed-page form and playback state cannot be recovered by reopening an address.
 
-Close Conake before updating, install the package for your computer, then sign in. Verify installer hashes with SHA256SUMS.txt.
+74 automated checks and Linux desktop checks use local fixtures to verify pop-up blocking, script and HTTP redirects, embedded frames, source-tab Back, preserved drafts, normal navigation, and encrypted rule restoration.
+
+Close Conake before updating, install the package for your computer, then sign in. Verify hashes with SHA256SUMS.txt.
 
 [Community](https://discord.gg/BMcST6NaZS) · [Donate](https://cash.app/$one1aura) · Collaborations: godscripters@gmail.com
