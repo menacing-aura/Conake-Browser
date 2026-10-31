@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="Download Conake Browser by Conake Studio for Windows, Linux and macOS. Anime-inspired themes, community extensions and Snake Run offline arcade.">
+  <meta name="description" content="Download Conake Browser by Conake Studio for Windows, Linux, macOS and Chromebook. Anime-inspired themes and Snake Run.">
   <meta name="author" content="Conake Studio">
   <meta name="copyright" content="© 2026 Conake Studio. All rights reserved.">
   <meta name="theme-color" content="#130b18">
@@ -40,7 +40,7 @@
           <a class="button primary" href="#downloads">Get Conake Browser <span aria-hidden="true">↓</span></a>
           <a class="button ghost" href="https://conake-studios.web-one1aura.workers.dev/snake-run/">Play Snake Run ↗</a>
         </div>
-        <p class="platforms"><span>WINDOWS</span><span>LINUX</span><span>macOS</span></p>
+        <p class="platforms"><span>WINDOWS</span><span>LINUX</span><span>macOS</span><span>CHROMEBOOK</span></p>
       </div>
       <div class="hero-art" aria-hidden="true">
         <div class="art-panel"></div>
@@ -81,6 +81,15 @@
           <a class="installer" href="https://github.com/menacing-aura/Conake-Browser/releases/download/v0.1.18/ConakeBrowser-0.1.18-mac-x64.dmg" aria-label="Download Conake Browser for Intel Mac, x64 DMG installer">Intel Mac <span>.dmg ↓</span></a>
         </article>
       </div>
+      <article class="platform-card" style="margin-top:1rem" aria-labelledby="chromebook-title">
+        <p class="eyebrow">✦ NEW / EARLY PREVIEW</p>
+        <h3 id="chromebook-title">Chromebook · Android APK</h3>
+        <p>For supported Chromebooks with Android apps and ADB sideloading. Internet is required to use this preview. Desktop accounts and extensions are not yet included.</p>
+        <p><strong>Phone warning:</strong> Opening this APK on a phone can trigger a 48-hour IP ban. Everyone sharing the same public network may be affected.</p>
+        <p id="chromebook-notice">Open this page on a Chromebook to see the APK download button.</p>
+        <a id="chromebook-download" class="installer" style="display:none" href="https://github.com/menacing-aura/Conake-Browser/releases/download/v0.1.18-chromebook.1/ConakeBrowser-Chromebook-0.1.18.apk">Download Chromebook APK <span>PREVIEW ↓</span></a>
+        <p><a href="https://developer.android.com/develop/devices/chromeos/learn/development-environment">Chromebook installation requirements ↗</a></p>
+      </article>
       <div class="release-links">
         <a href="https://github.com/menacing-aura/Conake-Browser/releases/tag/v0.1.18">Release notes ↗</a>
         <a href="https://github.com/menacing-aura/Conake-Browser/releases/download/v0.1.18/SHA256SUMS.txt">SHA-256 checksums ↗</a>
@@ -122,7 +131,7 @@
     <section id="help" class="section help" aria-labelledby="help-title">
       <p class="eyebrow">05 / QUICK ANSWERS</p>
       <h2 id="help-title">Before you jump in.</h2>
-      <p class="section-intro">Open your installer, then create a local account with a password of at least 12 characters. On later launches, sign in to unlock your saved profile.</p>
+      <p class="section-intro">For desktop, open your installer and create a local account with a password of at least 12 characters. The separate Chromebook preview does not yet have desktop accounts.</p>
       <details><summary>How do extensions work?</summary><p>Open Extensions in Conake to review an extension’s source and website access before installing it. Enable extension mode, then lock and sign in again. The first format supports JavaScript and CSS content scripts for HTTP/HTTPS websites; it does not install arbitrary Chrome Web Store packages. Creators are not automatically reviewed.</p></details>
 <details><summary>How do I copy and paste?</summary><p>Right-click, or use a two-finger click on your trackpad, to open the context menu. Text fields offer Cut, Copy, Paste, Paste as Plain Text, Undo, Redo and Select All where available. You can also click <strong>Edit ▾</strong> beside Lock. It uses the page or browser field you last focused.</p><p>Keyboard shortcuts work too: Ctrl+C copies, Ctrl+X cuts, Ctrl+V pastes and Ctrl+A selects all. Use Command on Mac.</p></details>
 <details><summary>About accounts and privacy</summary><p>Bookmarks, history, settings, the download list, and API keys are saved in a password-encrypted profile. Accounts stay on this computer. There is no cloud sync or password recovery, so keep your password safe.</p><p>Click Lock to sign out and close your tabs. Website sessions end on sign-out or restart. Up to 40 pinned addresses, names, colors, and their order are saved in your encrypted profile and reopen after sign-in. Other tabs and the recent closed-tab list reset when you lock. Extension mode temporarily stores session data on disk and clears it during normal lock or exit; a crash can leave temporary files. Files you download, backups, and files left by older versions remain outside the encrypted profile.</p></details>
@@ -133,5 +142,12 @@
     <a href="https://conake-studios.web-one1aura.workers.dev/" aria-label="Visit Conake Studio"><img src="assets/readme/conake-studio.svg" width="1200" height="148" loading="lazy" alt="Made by Conake Studio. Your next arc starts here."></a>
     <div class="footer-meta"><p>© 2026 Conake Studio. All rights reserved.</p><nav aria-label="Footer"><a href="https://github.com/menacing-aura/Conake-Browser/blob/main/COPYRIGHT.txt">Copyright notice</a><a href="https://github.com/menacing-aura/Conake-Browser">GitHub ↗</a><a href="https://conake-studios.web-one1aura.workers.dev/">Conake Studio ↗</a></nav></div>
   </footer>
+  <script>
+    if (/\bCrOS\b/i.test(navigator.userAgent)) {
+      document.getElementById('chromebook-download').style.display = '';
+      document.getElementById('chromebook-notice').hidden = true;
+    }
+  </script>
 </body>
 </html>
+

@@ -50,6 +50,14 @@
   <a href="https://github.com/menacing-aura/Conake-Browser/releases">All releases</a>
 </p>
 
+### Chromebook · Android preview
+
+[Get the Chromebook APK and read the installation instructions ↗](https://github.com/menacing-aura/Conake-Browser/releases/tag/v0.1.18-chromebook.1)
+
+This is a separate, early Android WebView edition for supported Chromebooks. It requires Android app support, ADB sideloading, and an internet connection. Desktop accounts and extensions are not included. It has not yet been tested on a physical Chromebook.
+
+**Phone warning:** opening this APK on a phone can trigger a 48-hour IP ban, including for other devices sharing the same public IP. Device identification can be inaccurate or bypassed.
+
 > **Installing Conake?** Pick an installer above. GitHub's **Code → Download ZIP** and **Source code** archives contain this download website's files.
 
 ## Keep your place.
@@ -182,3 +190,4 @@ Only download-page assets belong in this repository. Application source archives
   <img src="assets/readme/conake-studio.svg" width="100%" alt="Made by Conake Studio — Your next arc starts here."><br>
   <sub>© 2026 Conake Studio. All rights reserved. · <a href="COPYRIGHT.txt">Copyright notice</a></sub>
 </p>
+
