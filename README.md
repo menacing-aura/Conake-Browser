@@ -58,6 +58,8 @@ This is a separate, early Android WebView edition for supported Chromebooks. It 
 
 **Phone warning:** opening this APK on a phone can trigger a 48-hour IP ban, including for other devices sharing the same public IP. Device identification can be inaccurate or bypassed.
 
+The verification service sees the public IP and device category to apply this restriction; it does not receive browsing addresses. The Chromebook preview stores game scores locally and requires an internet check to open the app.
+
 > **Installing Conake?** Pick an installer above. GitHub's **Code → Download ZIP** and **Source code** archives contain this download website's files.
 
 ## Keep your place.
