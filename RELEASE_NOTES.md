@@ -1,15 +1,17 @@
-Your next scene.
+Conake Names gives your project a memorable address inside Conake.
 
-- Browser fullscreen now fills the display with the page. Use F11 or Escape to exit (Control+Command+F on Mac), Ctrl/Command+L to restore the address bar, or right-click the page for Exit Browser Fullscreen.
-- Prefer visible tabs and controls? Turn off **Settings → Search & fullscreen → Hide browser bars in fullscreen**.
-- Improve fullscreen permission handling for embedded video players in the active tab, and recover window controls after an interrupted transition.
-- Choose **Crimson Eclipse**, **Sakura Shrine**, **Neon Rain**, or **Lunar Tide** in **Settings → New tab & wallpapers**. All four wallpapers are bundled and work offline.
-- Preview wallpaper darkness and blur, shuffle each new tab, and show or hide the clock, quick links, and Snake Run card. Existing tabs keep their shuffled scene.
-- Add **Emerald Dream** and **Amber Dawn**, bringing the color-theme choices to five.
-- Choose Google, DuckDuckGo, or Bing for the address bar and new-tab search.
-- Settings now applies tab size correctly. Partial changes preserve your other preferences; Reset appearance leaves account data and AI configuration intact.
-- Site Shield, custom tabs, extensions, and offline Snake Run remain included.
+This release also restores the toolbar immediately after fullscreen, including when animation frames were paused.
 
-Preferences stay in your encrypted local account. Close Conake before updating, install the package for your computer, then sign in. Verify hashes with SHA256SUMS.txt.
+- Type `studio.conake`, `arcade.conake`, `extensions.conake` or `register.conake` in the address bar. The browser resolves the name and shows the real HTTPS destination.
+- Open **Conake Names** from the browser menu or new-tab footer to check availability and register up to five names for existing public HTTPS sites. Registry accounts are separate from local browser profiles and Extension Store accounts.
+- Manage destinations, pause/reactivate owned names, and recover an account using its private recovery code. Pausing keeps ownership and stops new lookups; already-open sites stay open.
+- Paths, queries and fragments are appended locally after lookup. Only the name reaches the registry. A cancelled, closed-tab or superseded lookup cannot replace a newer navigation. Site Shield still applies to links from protected pages.
+- Pending or failed name lookups are not presented as HTTPS connections. The destination's actual origin and certificate remain visible.
 
-[Community](https://discord.gg/BMcST6NaZS) · [Donate](https://cash.app/$one1aura) · Collaborations: godscripters@gmail.com
+**This is a Conake-only alias system.** `.conake` is not a public DNS TLD or an ICANN domain registration. It supplies no hosting, certificate or Tor routing/anonymity. The central registry and Cloudflare see lookup names and source IP addresses; ordinary website visits do not go through the name resolver. Older Conake builds do not support these names.
+
+[Register a name](https://conake-domains.web-one1aura.workers.dev/) · [Community](https://discord.gg/BMcST6NaZS) · [Donate](https://cash.app/$one1aura) · Collaborations: godscripters@gmail.com
+
+Close Conake before updating and install the package for your computer. Verify installer hashes with SHA256SUMS.txt.
+
+© 2026 Conake Studios
