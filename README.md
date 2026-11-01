@@ -52,13 +52,13 @@
 
 ### Chromebook · Android preview
 
-[Get the Chromebook APK and read the installation instructions ↗](https://github.com/menacing-aura/Conake-Browser/releases/tag/v0.1.18-chromebook.1)
+[Get the Chromebook APK and read the installation instructions ↗](https://github.com/menacing-aura/Conake-Browser/releases/tag/v0.1.18-chromebook.2)
 
-This is a separate, early Android WebView edition for supported Chromebooks. It requires Android app support, ADB sideloading, and an internet connection. Desktop accounts and extensions are not included. It has not yet been tested on a physical Chromebook.
+Preview 02 adds an anime dashboard, saved bookmarks and history, editable quick links, native tab controls, find-in-page, desktop-site mode, copy/share, downloads and more settings. It is a separate Android WebView edition for supported Chromebooks and requires Android app support, ADB sideloading, and an internet connection. Desktop accounts and extensions are not included. Preview 01 was reported running on a hatch Chromebook; this update is checked in an Android tablet emulator.
 
 **Phone warning:** opening this APK on a phone can trigger a 48-hour IP ban, including for other devices sharing the same public IP. Device identification can be inaccurate or bypassed.
 
-The verification service sees the public IP and device category to apply this restriction; it does not receive browsing addresses. The Chromebook preview stores game scores locally and requires an internet check to open the app.
+The verification service sees the public IP and device category to apply this restriction; it does not receive browsing addresses. The Chromebook preview stores game scores locally and requires an internet check to open the app. Saved bookmarks, history and quick links are encrypted with an Android Keystore key; anyone using the unlocked app can view them. Keep app data when updating with `adb install -r`.
 
 > **Installing Conake?** Pick an installer above. GitHub's **Code → Download ZIP** and **Source code** archives contain this download website's files.
 
