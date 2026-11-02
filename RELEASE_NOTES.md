@@ -1,3 +1,13 @@
+## Chromebook Preview 05 · address-bar fix
+
+The upper URL/search bar now submits with physical Enter, numpad Enter and on-screen Go, Search or Done. A visible **Go** button is also available. The top bar and new-tab search use the selected search engine.
+
+[Get the signed Chromebook update and installation instructions](https://github.com/menacing-aura/Conake-Browser/releases/tag/v0.1.20-chromebook.5). Keep app data with `adb install -r ConakeBrowser-Chromebook-0.1.20-preview5.apk`; do not uninstall first. The existing Chromebook-only policy remains, including the 48-hour public-IP ban if opened on a phone.
+
+Desktop v0.1.20 is unchanged.
+
+---
+
 Your first arc starts here.
 
 - Open the new **Quick setup** card on a new tab, or **Navigate → Setup Guide**. The desktop guide is bundled and works offline; it explains installation, profiles, Conake Names, customization, tabs, fullscreen and Snake Run.

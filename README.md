@@ -62,9 +62,9 @@ Your online Names account, encrypted desktop profile and Extension Store account
 
 ### Chromebook · Android preview
 
-[Get the Chromebook APK and read the installation instructions ↗](https://github.com/menacing-aura/Conake-Browser/releases/tag/v0.1.20-chromebook.4)
+[Get the Chromebook APK and read the installation instructions ↗](https://github.com/menacing-aura/Conake-Browser/releases/tag/v0.1.20-chromebook.5)
 
-Preview 04 adds Quick setup and official Conake Account links alongside .conake name navigation, the anime dashboard, saved bookmarks and history, editable quick links, native tab controls, find-in-page, desktop-site mode, copy/share, downloads and more settings. It is a separate Android WebView edition for supported Chromebooks and requires Android app support, ADB sideloading, and an internet connection. Desktop accounts and extensions are not included. Preview 01 was reported running on a hatch Chromebook; this update is checked in an Android tablet emulator.
+Preview 05 fixes the upper address bar for physical Enter and numpad Enter, supports more on-screen keyboard actions, and adds a visible Go button. It also includes Quick setup, official Conake Account links, .conake name navigation, the anime dashboard, saved bookmarks and history, editable quick links, native tab controls, find-in-page, desktop-site mode, copy/share, downloads and more settings. It is a separate Android WebView edition for supported Chromebooks and requires Android app support, ADB sideloading, and an internet connection. Desktop accounts and extensions are not included. Preview 01 was reported running on a hatch Chromebook; this update is checked in an Android tablet emulator.
 
 **Phone warning:** opening this APK on a phone can trigger a 48-hour IP ban, including for other devices sharing the same public IP. Device identification can be inaccurate or bypassed.
 
@@ -76,7 +76,7 @@ The verification service sees the public IP and device category to apply this re
 
 **[Register a free .conake name ↗](https://conake-domains.web-one1aura.workers.dev/)** for an existing public HTTPS website. Create a separate registry account, claim up to five names, update their destinations, or pause them while keeping ownership. Save your private recovery code.
 
-Desktop **v0.1.20** and **Chromebook Preview 04** resolve addresses such as `studio.conake`, `arcade.conake`, and `register.conake` from the address bar. The real HTTPS destination stays visible. This is a central Conake-only alias registry, separate from public DNS, without hosting, Tor routing, or anonymity. The registry receives the name lookup and public IP; other browsing addresses are not sent by the resolver.
+Desktop **v0.1.20** and **Chromebook Preview 05** resolve addresses such as `studio.conake`, `arcade.conake`, and `register.conake` from the address bar. The real HTTPS destination stays visible. This is a central Conake-only alias registry, separate from public DNS, without hosting, Tor routing, or anonymity. The registry receives the name lookup and public IP; other browsing addresses are not sent by the resolver.
 
 ## Keep your place.
 
