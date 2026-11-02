@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <strong>CONAKE BROWSER · ANIME ECLIPSE · v0.1.19</strong><br>
+  <strong>CONAKE BROWSER · ANIME ECLIPSE · v0.1.20</strong><br>
   Your browser. Your aesthetic. A little arcade chaos.
 </p>
 
@@ -21,6 +21,14 @@
   <a href="https://discord.gg/BMcST6NaZS">Discord</a>
 </p>
 
+## Start your first arc
+
+**[Open the setup guide ↗](https://conake-domains.web-one1aura.workers.dev/setup)** for the right installer, first launch, profiles, wallpapers, tabs, fullscreen and Snake Run. On desktop, open **Quick setup** from a new tab or **Navigate → Setup Guide**. The desktop guide works offline and can apply your theme and search engine.
+
+**[Sign in with Conake ↗](https://conake-domains.web-one1aura.workers.dev/account)** to manage your .conake names. Existing Names credentials still work. Confirm your password when creating or recovering an account, save your private recovery code, choose session-only or seven-day sign-in, review active sign-ins, change the online password, and sign out other devices.
+
+Your online Names account, encrypted desktop profile and Extension Store account are separate. The desktop unlock screen now has clearer labels, password and confirmation visibility, and Caps Lock feedback. Google sign-in is not configured.
+
 ## Choose your platform
 
 **Real installers. Download, open, and start your next arc.** No source checkout or Node.js needed.
@@ -28,35 +36,35 @@
 <table>
   <tr>
     <td width="33%" align="center" valign="top">
-      <a href="https://github.com/menacing-aura/Conake-Browser/releases/download/v0.1.19/ConakeBrowser-0.1.19-win-x64.exe"><img src="assets/readme/download-windows.svg" width="280" alt="Download Conake Browser for Windows x64 — EXE installer"></a><br>
-      <a href="https://github.com/menacing-aura/Conake-Browser/releases/download/v0.1.19/ConakeBrowser-0.1.19-win-x64.exe"><strong>Windows · .exe ↓</strong></a>
+      <a href="https://github.com/menacing-aura/Conake-Browser/releases/download/v0.1.20/ConakeBrowser-0.1.20-win-x64.exe"><img src="assets/readme/download-windows.svg" width="280" alt="Download Conake Browser for Windows x64 — EXE installer"></a><br>
+      <a href="https://github.com/menacing-aura/Conake-Browser/releases/download/v0.1.20/ConakeBrowser-0.1.20-win-x64.exe"><strong>Windows · .exe ↓</strong></a>
     </td>
     <td width="33%" align="center" valign="top">
-      <a href="https://github.com/menacing-aura/Conake-Browser/releases/download/v0.1.19/conake-browser_0.1.19_amd64.deb"><img src="assets/readme/download-linux.svg" width="280" alt="Download Conake Browser for Linux x64 — Debian installer"></a><br>
-      <a href="https://github.com/menacing-aura/Conake-Browser/releases/download/v0.1.19/conake-browser_0.1.19_amd64.deb"><strong>Ubuntu / Mint / Debian · .deb ↓</strong></a><br>
-      <a href="https://github.com/menacing-aura/Conake-Browser/releases/download/v0.1.19/ConakeBrowser-0.1.19-linux-x86_64.AppImage">Other Linux · AppImage ↓</a>
+      <a href="https://github.com/menacing-aura/Conake-Browser/releases/download/v0.1.20/conake-browser_0.1.20_amd64.deb"><img src="assets/readme/download-linux.svg" width="280" alt="Download Conake Browser for Linux x64 — Debian installer"></a><br>
+      <a href="https://github.com/menacing-aura/Conake-Browser/releases/download/v0.1.20/conake-browser_0.1.20_amd64.deb"><strong>Ubuntu / Mint / Debian · .deb ↓</strong></a><br>
+      <a href="https://github.com/menacing-aura/Conake-Browser/releases/download/v0.1.20/ConakeBrowser-0.1.20-linux-x86_64.AppImage">Other Linux · AppImage ↓</a>
     </td>
     <td width="33%" align="center" valign="top">
-      <a href="https://github.com/menacing-aura/Conake-Browser/releases/download/v0.1.19/ConakeBrowser-0.1.19-mac-arm64.dmg"><img src="assets/readme/download-macos.svg" width="280" alt="Download Conake Browser for macOS Apple Silicon — DMG installer"></a><br>
-      <a href="https://github.com/menacing-aura/Conake-Browser/releases/download/v0.1.19/ConakeBrowser-0.1.19-mac-arm64.dmg"><strong>Apple Silicon · .dmg ↓</strong></a><br>
-      <a href="https://github.com/menacing-aura/Conake-Browser/releases/download/v0.1.19/ConakeBrowser-0.1.19-mac-x64.dmg">Intel Mac · .dmg ↓</a>
+      <a href="https://github.com/menacing-aura/Conake-Browser/releases/download/v0.1.20/ConakeBrowser-0.1.20-mac-arm64.dmg"><img src="assets/readme/download-macos.svg" width="280" alt="Download Conake Browser for macOS Apple Silicon — DMG installer"></a><br>
+      <a href="https://github.com/menacing-aura/Conake-Browser/releases/download/v0.1.20/ConakeBrowser-0.1.20-mac-arm64.dmg"><strong>Apple Silicon · .dmg ↓</strong></a><br>
+      <a href="https://github.com/menacing-aura/Conake-Browser/releases/download/v0.1.20/ConakeBrowser-0.1.20-mac-x64.dmg">Intel Mac · .dmg ↓</a>
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <a href="https://github.com/menacing-aura/Conake-Browser/releases/tag/v0.1.19">What's new in v0.1.19</a>
+  <a href="https://github.com/menacing-aura/Conake-Browser/releases/tag/v0.1.20">What's new in v0.1.20</a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/menacing-aura/Conake-Browser/releases/download/v0.1.19/SHA256SUMS.txt">SHA-256 checksums</a>
+  <a href="https://github.com/menacing-aura/Conake-Browser/releases/download/v0.1.20/SHA256SUMS.txt">SHA-256 checksums</a>
   &nbsp;·&nbsp;
   <a href="https://github.com/menacing-aura/Conake-Browser/releases">All releases</a>
 </p>
 
 ### Chromebook · Android preview
 
-[Get the Chromebook APK and read the installation instructions ↗](https://github.com/menacing-aura/Conake-Browser/releases/tag/v0.1.19-chromebook.3)
+[Get the Chromebook APK and read the installation instructions ↗](https://github.com/menacing-aura/Conake-Browser/releases/tag/v0.1.20-chromebook.4)
 
-Preview 03 adds .conake name navigation alongside the anime dashboard, saved bookmarks and history, editable quick links, native tab controls, find-in-page, desktop-site mode, copy/share, downloads and more settings. It is a separate Android WebView edition for supported Chromebooks and requires Android app support, ADB sideloading, and an internet connection. Desktop accounts and extensions are not included. Preview 01 was reported running on a hatch Chromebook; this update is checked in an Android tablet emulator.
+Preview 04 adds Quick setup and official Conake Account links alongside .conake name navigation, the anime dashboard, saved bookmarks and history, editable quick links, native tab controls, find-in-page, desktop-site mode, copy/share, downloads and more settings. It is a separate Android WebView edition for supported Chromebooks and requires Android app support, ADB sideloading, and an internet connection. Desktop accounts and extensions are not included. Preview 01 was reported running on a hatch Chromebook; this update is checked in an Android tablet emulator.
 
 **Phone warning:** opening this APK on a phone can trigger a 48-hour IP ban, including for other devices sharing the same public IP. Device identification can be inaccurate or bypassed.
 
@@ -68,7 +76,7 @@ The verification service sees the public IP and device category to apply this re
 
 **[Register a free .conake name ↗](https://conake-domains.web-one1aura.workers.dev/)** for an existing public HTTPS website. Create a separate registry account, claim up to five names, update their destinations, or pause them while keeping ownership. Save your private recovery code.
 
-Desktop **v0.1.19** and **Chromebook Preview 03** resolve addresses such as `studio.conake`, `arcade.conake`, and `register.conake` from the address bar. The real HTTPS destination stays visible. This is a central Conake-only alias registry, separate from public DNS, without hosting, Tor routing, or anonymity. The registry receives the name lookup and public IP; other browsing addresses are not sent by the resolver.
+Desktop **v0.1.20** and **Chromebook Preview 04** resolve addresses such as `studio.conake`, `arcade.conake`, and `register.conake` from the address bar. The real HTTPS destination stays visible. This is a central Conake-only alias registry, separate from public DNS, without hosting, Tor routing, or anonymity. The registry receives the name lookup and public IP; other browsing addresses are not sent by the resolver.
 
 ## Keep your place.
 
@@ -106,7 +114,7 @@ Up to **40 pinned tabs** keep their order, addresses, names, and colors in your 
   <img src="assets/readme/snake-run.svg" alt="Snake Run — Jump crystals. Duck drones. Chase your best. Play Conake's offline arcade runner." width="100%">
 </a>
 
-**Snake Run is bundled into Conake v0.1.19.** Open it from a new tab, **Navigate → Snake Run**, a connection-error page, or `conake://snake-run`. No extra game download needed.
+**Snake Run is bundled into Conake v0.1.20.** Open it from a new tab, **Navigate → Snake Run**, a connection-error page, or `conake://snake-run`. No extra game download needed.
 
 | Jump | Duck | Pause | Restart |
 | :--- | :--- | :--- | :--- |
@@ -154,24 +162,24 @@ Use **Ctrl+C**, **Ctrl+X**, **Ctrl+V**, and **Ctrl+A** for copy, cut, paste, and
 <details>
 <summary><strong>Installer checksums</strong></summary>
 
-Download **[SHA256SUMS.txt](https://github.com/menacing-aura/Conake-Browser/releases/download/v0.1.19/SHA256SUMS.txt)** into the same folder as your installer. Compare your file's SHA-256 hash with its entry in the checksum file:
+Download **[SHA256SUMS.txt](https://github.com/menacing-aura/Conake-Browser/releases/download/v0.1.20/SHA256SUMS.txt)** into the same folder as your installer. Compare your file's SHA-256 hash with its entry in the checksum file:
 
 **Windows · PowerShell**
 
 ```powershell
-Get-FileHash .\ConakeBrowser-0.1.19-win-x64.exe -Algorithm SHA256
+Get-FileHash .\ConakeBrowser-0.1.20-win-x64.exe -Algorithm SHA256
 ```
 
 **Linux**
 
 ```sh
-sha256sum conake-browser_0.1.19_amd64.deb
+sha256sum conake-browser_0.1.20_amd64.deb
 ```
 
 **macOS · Apple Silicon**
 
 ```sh
-shasum -a 256 ConakeBrowser-0.1.19-mac-arm64.dmg
+shasum -a 256 ConakeBrowser-0.1.20-mac-arm64.dmg
 ```
 
 Use the filename you downloaded if you chose AppImage or an Intel Mac installer.
@@ -200,5 +208,6 @@ Only download-page assets belong in this repository. Application source archives
   <img src="assets/readme/conake-studio.svg" width="100%" alt="Made by Conake Studio — Your next arc starts here."><br>
   <sub>© 2026 Conake Studio. All rights reserved. · <a href="COPYRIGHT.txt">Copyright notice</a></sub>
 </p>
+
 
 
