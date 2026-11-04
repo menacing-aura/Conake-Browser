@@ -1,3 +1,15 @@
+## v0.1.21 previews · Chrome Web Store browsing
+
+**[Download the Linux .deb preview](https://github.com/menacing-aura/Conake-Browser/releases/download/v0.1.21/conake-browser_0.1.21_amd64.deb)** · [Linux release notes](https://github.com/menacing-aura/Conake-Browser/releases/tag/v0.1.21) · [Linux checksum](https://github.com/menacing-aura/Conake-Browser/releases/download/v0.1.21/SHA256SUMS.txt)
+
+The Linux preview adds Chrome Web Store browsing and reviewed imports of unpacked Manifest V3 content-script extensions. Imports support one JavaScript file and one CSS file; background services and direct Chrome Web Store / CRX installation are not supported. Windows, macOS and AppImage downloads remain v0.1.20.
+
+**[Download Chromebook Preview 06](https://github.com/menacing-aura/Conake-Browser/releases/download/v0.1.21-chromebook.6/ConakeBrowser-Chromebook-0.1.21-preview6.apk)** · [Chromebook installation instructions](https://github.com/menacing-aura/Conake-Browser/releases/tag/v0.1.21-chromebook.6) · [APK checksum](https://github.com/menacing-aura/Conake-Browser/releases/download/v0.1.21-chromebook.6/SHA256SUMS.txt)
+
+Preview 06 adds a Chrome Web Store menu entry for browsing only, with an explanation that Android extension installation is unsupported. It retains the upper address-bar fixes, Go button, setup guide and Chromebook-only policy. Keep app data with `adb install -r ConakeBrowser-Chromebook-0.1.21-preview6.apk`. The existing 48-hour public-IP phone restriction remains.
+
+---
+
 ## Chromebook Preview 05 · address-bar fix
 
 The upper URL/search bar now submits with physical Enter, numpad Enter and on-screen Go, Search or Done. A visible **Go** button is also available. The top bar and new-tab search use the selected search engine.

@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <strong>CONAKE BROWSER · ANIME ECLIPSE · v0.1.20</strong><br>
+  <strong>CONAKE BROWSER · ANIME ECLIPSE · v0.1.20 + v0.1.21 PREVIEWS</strong><br>
   Anime-styled desktop browser with custom themes, community extensions, encrypted local profiles, and built-in Snake Run. Windows · Linux · macOS.
 </p>
 
@@ -40,8 +40,8 @@ Your online Names account, encrypted desktop profile and Extension Store account
       <a href="https://github.com/menacing-aura/Conake-Browser/releases/download/v0.1.20/ConakeBrowser-0.1.20-win-x64.exe"><strong>Windows · .exe ↓</strong></a>
     </td>
     <td width="33%" align="center" valign="top">
-      <a href="https://github.com/menacing-aura/Conake-Browser/releases/download/v0.1.20/conake-browser_0.1.20_amd64.deb"><img src="assets/readme/download-linux.svg" width="280" alt="Download Conake Browser for Linux x64 — Debian installer"></a><br>
-      <a href="https://github.com/menacing-aura/Conake-Browser/releases/download/v0.1.20/conake-browser_0.1.20_amd64.deb"><strong>Ubuntu / Mint / Debian · .deb ↓</strong></a><br>
+      <a href="https://github.com/menacing-aura/Conake-Browser/releases/download/v0.1.21/conake-browser_0.1.21_amd64.deb"><img src="assets/readme/download-linux.svg" width="280" alt="Download Conake Browser for Linux x64 — Debian installer"></a><br>
+      <a href="https://github.com/menacing-aura/Conake-Browser/releases/download/v0.1.21/conake-browser_0.1.21_amd64.deb"><strong>Ubuntu / Mint / Debian · .deb v0.1.21 preview ↓</strong></a><br>
       <a href="https://github.com/menacing-aura/Conake-Browser/releases/download/v0.1.20/ConakeBrowser-0.1.20-linux-x86_64.AppImage">Other Linux · AppImage ↓</a>
     </td>
     <td width="33%" align="center" valign="top">
@@ -51,6 +51,8 @@ Your online Names account, encrypted desktop profile and Extension Store account
     </td>
   </tr>
 </table>
+
+**New Linux preview:** [.deb v0.1.21 release notes and checksums](https://github.com/menacing-aura/Conake-Browser/releases/tag/v0.1.21). Adds Chrome Web Store browsing and reviewed unpacked Manifest V3 content-script imports. Windows, macOS and AppImage downloads are v0.1.20.
 
 <p align="center">
   <a href="https://github.com/menacing-aura/Conake-Browser/releases/tag/v0.1.20">What's new in v0.1.20</a>
@@ -62,9 +64,9 @@ Your online Names account, encrypted desktop profile and Extension Store account
 
 ### Chromebook · Android preview
 
-[Get the Chromebook APK and read the installation instructions ↗](https://github.com/menacing-aura/Conake-Browser/releases/tag/v0.1.20-chromebook.5)
+[Download Chromebook APK · Preview 06 ↓](https://github.com/menacing-aura/Conake-Browser/releases/download/v0.1.21-chromebook.6/ConakeBrowser-Chromebook-0.1.21-preview6.apk) · [Installation instructions](https://github.com/menacing-aura/Conake-Browser/releases/tag/v0.1.21-chromebook.6) · [APK checksum](https://github.com/menacing-aura/Conake-Browser/releases/download/v0.1.21-chromebook.6/SHA256SUMS.txt)
 
-Preview 05 fixes the upper address bar for physical Enter and numpad Enter, supports more on-screen keyboard actions, and adds a visible Go button. It also includes Quick setup, official Conake Account links, .conake name navigation, the anime dashboard, saved bookmarks and history, editable quick links, native tab controls, find-in-page, desktop-site mode, copy/share, downloads and more settings. It is a separate Android WebView edition for supported Chromebooks and requires Android app support, ADB sideloading, and an internet connection. Desktop accounts and extensions are not included. Preview 01 was reported running on a hatch Chromebook; this update is checked in an Android tablet emulator.
+Preview 06 adds Chrome Web Store browsing from the browser menu; Android extension installation is not supported. It retains the upper address-bar fixes for physical Enter and numpad Enter, supports more on-screen keyboard actions, and adds a visible Go button. It also includes Quick setup, official Conake Account links, .conake name navigation, the anime dashboard, saved bookmarks and history, editable quick links, native tab controls, find-in-page, desktop-site mode, copy/share, downloads and more settings. It is a separate Android WebView edition for supported Chromebooks and requires Android app support, ADB sideloading, and an internet connection. Desktop accounts and extensions are not included. Preview 01 was reported running on a hatch Chromebook; this update is checked in an Android tablet emulator.
 
 **Phone warning:** opening this APK on a phone can trigger a 48-hour IP ban, including for other devices sharing the same public IP. Device identification can be inaccurate or bypassed.
 
@@ -76,7 +78,7 @@ The verification service sees the public IP and device category to apply this re
 
 **[Register a free .conake name ↗](https://conake-domains.web-one1aura.workers.dev/)** for an existing public HTTPS website. Create a separate registry account, claim up to five names, update their destinations, or pause them while keeping ownership. Save your private recovery code.
 
-Desktop **v0.1.20** and **Chromebook Preview 05** resolve addresses such as `studio.conake`, `arcade.conake`, and `register.conake` from the address bar. The real HTTPS destination stays visible. This is a central Conake-only alias registry, separate from public DNS, without hosting, Tor routing, or anonymity. The registry receives the name lookup and public IP; other browsing addresses are not sent by the resolver.
+Desktop **v0.1.20** and **Chromebook Preview 06** resolve addresses such as `studio.conake`, `arcade.conake`, and `register.conake` from the address bar. The real HTTPS destination stays visible. This is a central Conake-only alias registry, separate from public DNS, without hosting, Tor routing, or anonymity. The registry receives the name lookup and public IP; other browsing addresses are not sent by the resolver.
 
 ## Keep your place.
 
@@ -148,6 +150,8 @@ Inside Conake, open **Extensions**, review the source and website access, and ch
 
 The current format supports content scripts on HTTP/HTTPS websites. It does not install arbitrary Chrome Web Store or CRX packages. Creator submissions are not automatically reviewed.
 
+The **Linux .deb v0.1.21 preview** adds Chrome Web Store browsing and reviewed imports of unpacked Manifest V3 extensions containing one JavaScript file and one CSS file. Review their code and website access before importing; background services and other Chrome APIs are not supported.
+
 </details>
 
 <details>
@@ -162,7 +166,7 @@ Use **Ctrl+C**, **Ctrl+X**, **Ctrl+V**, and **Ctrl+A** for copy, cut, paste, and
 <details>
 <summary><strong>Installer checksums</strong></summary>
 
-Download **[SHA256SUMS.txt](https://github.com/menacing-aura/Conake-Browser/releases/download/v0.1.20/SHA256SUMS.txt)** into the same folder as your installer. Compare your file's SHA-256 hash with its entry in the checksum file:
+Download **[v0.1.21 Linux .deb checksums](https://github.com/menacing-aura/Conake-Browser/releases/download/v0.1.21/SHA256SUMS.txt)** or **[v0.1.20 checksums for Windows, macOS and AppImage](https://github.com/menacing-aura/Conake-Browser/releases/download/v0.1.20/SHA256SUMS.txt)** into the same folder as your installer. Compare your file's SHA-256 hash with its entry in the matching checksum file:
 
 **Windows · PowerShell**
 
@@ -173,7 +177,7 @@ Get-FileHash .\ConakeBrowser-0.1.20-win-x64.exe -Algorithm SHA256
 **Linux**
 
 ```sh
-sha256sum conake-browser_0.1.20_amd64.deb
+sha256sum conake-browser_0.1.21_amd64.deb
 ```
 
 **macOS · Apple Silicon**
