@@ -1,0 +1,71 @@
+Conake Browser Proprietary License
+
+Copyright © 2026 Conake Studio. All rights reserved.
+
+1. Scope
+
+This license applies to Conake Studio's original Conake Browser software,
+source code, website code, documentation, branding, artwork, graphics, and
+other original materials owned by Conake Studio ("Conake Materials").
+
+It does not apply to third-party software, libraries, frameworks, components,
+or other materials included with or used by Conake Browser. Those materials
+remain governed by their respective copyright notices and licenses.
+
+2. Limited permission
+
+Conake Studio grants you a limited, revocable, non-exclusive,
+non-transferable license to:
+
+- download official Conake Browser releases;
+- install and run unmodified official releases for personal use; and
+- view publicly available repository content for informational purposes.
+
+No ownership rights are transferred to you.
+
+3. Restrictions
+
+Except with prior written permission from Conake Studio, you may not:
+
+- copy, reproduce, or republish Conake Materials except as necessary for the
+  permitted use above;
+- modify, adapt, translate, or create derivative works from Conake Materials;
+- redistribute, rehost, mirror, sublicense, rent, lease, sell, or commercially
+  exploit Conake Materials or official Conake Browser releases;
+- incorporate Conake Materials into another product, project, service, or
+  software distribution;
+- remove or alter copyright, license, attribution, or proprietary notices;
+- use Conake Studio or Conake Browser names, logos, artwork, or branding in a
+  way that suggests affiliation, endorsement, or ownership; or
+- reverse engineer, decompile, or disassemble proprietary Conake Browser
+  components, except to the extent applicable law expressly permits despite
+  this restriction.
+
+4. Third-party components
+
+Conake Browser may include or depend on third-party open-source or proprietary
+components. This license does not restrict rights granted to you by those
+third-party licenses and does not replace their required notices or terms.
+
+5. No warranty
+
+THE CONAKE MATERIALS AND CONAKE BROWSER ARE PROVIDED "AS IS", WITHOUT WARRANTY
+OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, CONAKE STUDIO WILL NOT BE LIABLE FOR
+ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM OR RELATED TO THE USE OF
+CONAKE BROWSER OR THE CONAKE MATERIALS.
+
+6. Termination
+
+Your rights under this license terminate automatically if you violate its
+terms. Upon termination, you must stop using and distributing any Conake
+Materials for which you no longer have permission.
+
+7. Permission requests
+
+For redistribution, commercial use, integration, licensing, or other
+permissions, contact:
+
+godscripters@gmail.com
