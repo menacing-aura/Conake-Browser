@@ -6,7 +6,7 @@
 
 <p align="center">
   <strong>CONAKE BROWSER · ANIME ECLIPSE · v0.1.20</strong><br>
-  Your browser. Your aesthetic. A little arcade chaos.
+  Anime-styled desktop browser with custom themes, community extensions, encrypted local profiles, and built-in Snake Run. Windows · Linux · macOS.
 </p>
 
 <p align="center">
