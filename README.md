@@ -195,7 +195,7 @@ Use the filename you downloaded if you chose AppImage or an Intel Mac installer.
 <details>
 <summary><strong>About this repository · for maintainers</strong></summary>
 
-This public repository contains Conake's download website, release installers, and distribution tooling. Application source is maintained in a separate private development repository. Distributed installers can still be inspected.
+This public repository contains Conake's download website, release installers, and distribution tooling. Application source is maintained in a separate private development repository. **Conake's original materials are proprietary and are not open-source.** Distributed installers can still be inspected. Third-party components remain subject to their own licenses.
 
 The import workflow can transfer installers only from publicly accessible releases. With the development repository private, a maintainer uploads the five installers and `SHA256SUMS.txt` here, verifies them, and updates the version links in `README.md`, `index.html`, and `RELEASE_NOTES.md`. The platform artwork is version-independent.
 
@@ -206,7 +206,7 @@ Only download-page assets belong in this repository. Application source archives
 <p align="center">
   <br>
   <img src="assets/readme/conake-studio.svg" width="100%" alt="Made by Conake Studio — Your next arc starts here."><br>
-  <sub>© 2026 Conake Studio. All rights reserved. · <a href="COPYRIGHT.txt">Copyright notice</a></sub>
+  <sub>© 2026 Conake Studio. All rights reserved. · <a href="LICENSE">Proprietary license</a> · <a href="COPYRIGHT.txt">Copyright notice</a></sub>
 </p>
 
 
