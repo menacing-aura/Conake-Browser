@@ -1,3 +1,16 @@
+## v0.1.22 Linux preview · tab performance and website controls
+
+**[Download the Linux .deb](https://github.com/menacing-aura/Conake-Browser/releases/download/v0.1.22/conake-browser_0.1.22_amd64.deb)** · **[Download the AppImage](https://github.com/menacing-aura/Conake-Browser/releases/download/v0.1.22/ConakeBrowser-0.1.22-linux-x86_64.AppImage)** · [Release notes](https://github.com/menacing-aura/Conake-Browser/releases/tag/v0.1.22) · [Linux checksums](https://github.com/menacing-aura/Conake-Browser/releases/download/v0.1.22/Conake-0.1.22-checksums.txt)
+
+- Switching tabs preserves page surfaces and drafts, skips unchanged native bounds and avoids broadcasting full history/download records to every internal page.
+- Hover or focus a tab for approximate renderer RAM. Shared renderer processes are labelled; GPU memory and separate subframes are excluded. Samples are taken on demand.
+- Open **Settings → Websites & developer tools → Allow JavaScript on websites**. Saving a change reloads open websites and preserves navigation history. Conake's own pages remain interactive; some websites need scripts for login or video.
+- Use **right-click → Inspect**, **View → Inspect Page**, **F12** or **Ctrl/Command+Shift+I** to open the current website's DevTools.
+
+Close Conake before updating. Verify these two Linux installers using **Conake-0.1.22-checksums.txt**. Public Windows and macOS downloads remain v0.1.20; Chromebook Preview 06 is a separate, unchanged Android edition.
+
+---
+
 ## v0.1.21 previews · Chrome Web Store browsing
 
 **[Download the Linux .deb preview](https://github.com/menacing-aura/Conake-Browser/releases/download/v0.1.21/conake-browser_0.1.21_amd64.deb)** · [Linux release notes](https://github.com/menacing-aura/Conake-Browser/releases/tag/v0.1.21) · [Linux checksum](https://github.com/menacing-aura/Conake-Browser/releases/download/v0.1.21/SHA256SUMS.txt)
