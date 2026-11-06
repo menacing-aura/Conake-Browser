@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <strong>CONAKE BROWSER · ANIME ECLIPSE · v0.1.20 + v0.1.22 LINUX PREVIEW</strong><br>
+  <strong>CONAKE BROWSER · ANIME ECLIPSE · v0.1.23 DESKTOP PREVIEW</strong><br>
   Anime-styled desktop browser with custom themes, community extensions, encrypted local profiles, and built-in Snake Run. Windows · Linux · macOS.
 </p>
 
@@ -36,28 +36,28 @@ Your online Names account, encrypted desktop profile and Extension Store account
 <table>
   <tr>
     <td width="33%" align="center" valign="top">
-      <a href="https://github.com/menacing-aura/Conake-Browser/releases/download/v0.1.20/ConakeBrowser-0.1.20-win-x64.exe"><img src="assets/readme/download-windows.svg" width="280" alt="Download Conake Browser for Windows x64 — EXE installer"></a><br>
-      <a href="https://github.com/menacing-aura/Conake-Browser/releases/download/v0.1.20/ConakeBrowser-0.1.20-win-x64.exe"><strong>Windows · .exe ↓</strong></a>
+      <a href="https://github.com/menacing-aura/Conake-Browser/releases/download/v0.1.23/ConakeBrowser-0.1.23-win-x64.exe"><img src="assets/readme/download-windows.svg" width="280" alt="Download Conake Browser for Windows x64 — EXE installer"></a><br>
+      <a href="https://github.com/menacing-aura/Conake-Browser/releases/download/v0.1.23/ConakeBrowser-0.1.23-win-x64.exe"><strong>Windows · .exe ↓</strong></a>
     </td>
     <td width="33%" align="center" valign="top">
-      <a href="https://github.com/menacing-aura/Conake-Browser/releases/download/v0.1.22/conake-browser_0.1.22_amd64.deb"><img src="assets/readme/download-linux.svg" width="280" alt="Download Conake Browser for Linux x64 — Debian installer"></a><br>
-      <a href="https://github.com/menacing-aura/Conake-Browser/releases/download/v0.1.22/conake-browser_0.1.22_amd64.deb"><strong>Ubuntu / Mint / Debian · .deb v0.1.22 preview ↓</strong></a><br>
-      <a href="https://github.com/menacing-aura/Conake-Browser/releases/download/v0.1.22/ConakeBrowser-0.1.22-linux-x86_64.AppImage">Other Linux · AppImage v0.1.22 preview ↓</a>
+      <a href="https://github.com/menacing-aura/Conake-Browser/releases/download/v0.1.23/conake-browser_0.1.23_amd64.deb"><img src="assets/readme/download-linux.svg" width="280" alt="Download Conake Browser for Linux x64 — Debian installer"></a><br>
+      <a href="https://github.com/menacing-aura/Conake-Browser/releases/download/v0.1.23/conake-browser_0.1.23_amd64.deb"><strong>Ubuntu / Mint / Debian · .deb v0.1.23 preview ↓</strong></a><br>
+      <a href="https://github.com/menacing-aura/Conake-Browser/releases/download/v0.1.23/ConakeBrowser-0.1.23-linux-x86_64.AppImage">Other Linux · AppImage v0.1.23 preview ↓</a>
     </td>
     <td width="33%" align="center" valign="top">
-      <a href="https://github.com/menacing-aura/Conake-Browser/releases/download/v0.1.20/ConakeBrowser-0.1.20-mac-arm64.dmg"><img src="assets/readme/download-macos.svg" width="280" alt="Download Conake Browser for macOS Apple Silicon — DMG installer"></a><br>
-      <a href="https://github.com/menacing-aura/Conake-Browser/releases/download/v0.1.20/ConakeBrowser-0.1.20-mac-arm64.dmg"><strong>Apple Silicon · .dmg ↓</strong></a><br>
-      <a href="https://github.com/menacing-aura/Conake-Browser/releases/download/v0.1.20/ConakeBrowser-0.1.20-mac-x64.dmg">Intel Mac · .dmg ↓</a>
+      <a href="https://github.com/menacing-aura/Conake-Browser/releases/download/v0.1.23/ConakeBrowser-0.1.23-mac-arm64.dmg"><img src="assets/readme/download-macos.svg" width="280" alt="Download Conake Browser for macOS Apple Silicon — DMG installer"></a><br>
+      <a href="https://github.com/menacing-aura/Conake-Browser/releases/download/v0.1.23/ConakeBrowser-0.1.23-mac-arm64.dmg"><strong>Apple Silicon · .dmg ↓</strong></a><br>
+      <a href="https://github.com/menacing-aura/Conake-Browser/releases/download/v0.1.23/ConakeBrowser-0.1.23-mac-x64.dmg">Intel Mac · .dmg ↓</a>
     </td>
   </tr>
 </table>
 
-**New Linux v0.1.22 preview:** [.deb and AppImage release notes](https://github.com/menacing-aura/Conake-Browser/releases/tag/v0.1.22) · [Linux checksums](https://github.com/menacing-aura/Conake-Browser/releases/download/v0.1.22/Conake-0.1.22-checksums.txt). Adds smoother tab updates, approximate tab RAM on hover, a website JavaScript switch and website Inspect controls. Includes Chrome Web Store browsing and reviewed unpacked Manifest V3 content-script imports. Public Windows and macOS downloads remain v0.1.20; the Chromebook APK remains Preview 06.
+**New desktop v0.1.23 preview:** Windows, Linux and macOS installers above include editable New Tab shortcuts, favorite tiles, an improved bookmark manager and an F1 keyboard guide. Earlier tab performance, approximate RAM on hover, website JavaScript controls, Inspect and reviewed content-script imports are included. The Chromebook APK remains Preview 06.
 
 <p align="center">
-  <a href="https://github.com/menacing-aura/Conake-Browser/releases/tag/v0.1.20">What's new in stable v0.1.20</a>
+  <a href="https://github.com/menacing-aura/Conake-Browser/releases/tag/v0.1.23">What's new in desktop v0.1.23</a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/menacing-aura/Conake-Browser/releases/download/v0.1.20/SHA256SUMS.txt">SHA-256 checksums</a>
+  <a href="https://github.com/menacing-aura/Conake-Browser/releases/download/v0.1.23/SHA256SUMS.txt">SHA-256 checksums</a>
   &nbsp;·&nbsp;
   <a href="https://github.com/menacing-aura/Conake-Browser/releases">All releases</a>
 </p>
@@ -74,11 +74,20 @@ The verification service sees the public IP and device category to apply this re
 
 > **Installing Conake?** Pick an installer above. GitHub's **Code → Download ZIP** and **Source code** archives contain this download website's files.
 
+## Your favorites. One click away.
+
+- **Website shortcuts:** open New Tab → **+ Add shortcut**. Save up to 16 links; use a tile's **⋯** to rename, change its address or remove it.
+- **Favorite pages:** click the address-bar star or press **Ctrl/Command+D**. Your eight newest bookmarks appear on New Tab.
+- **Manage the collection:** choose **View all bookmarks**, **Ctrl/Command+B** or **Ctrl/Command+Shift+O** to add, edit, search and remove favorites.
+- **Learn the keys:** press **F1** or open **View → Keyboard Shortcuts** for the bundled guide.
+
+Favorites and shortcuts stay in your encrypted local profile and return after sign-in. Existing bookmarks are preserved.
+
 ## A name for your next arc.
 
 **[Register a free .conake name ↗](https://conake-domains.web-one1aura.workers.dev/)** for an existing public HTTPS website. Create a separate registry account, claim up to five names, update their destinations, or pause them while keeping ownership. Save your private recovery code.
 
-Desktop **v0.1.20** and **Chromebook Preview 06** resolve addresses such as `studio.conake`, `arcade.conake`, and `register.conake` from the address bar. The real HTTPS destination stays visible. This is a central Conake-only alias registry, separate from public DNS, without hosting, Tor routing, or anonymity. The registry receives the name lookup and public IP; other browsing addresses are not sent by the resolver.
+Desktop **v0.1.23** and **Chromebook Preview 06** resolve addresses such as `studio.conake`, `arcade.conake`, and `register.conake` from the address bar. The real HTTPS destination stays visible. This is a central Conake-only alias registry, separate from public DNS, without hosting, Tor routing, or anonymity. The registry receives the name lookup and public IP; other browsing addresses are not sent by the resolver.
 
 ## Keep your place.
 
@@ -98,7 +107,7 @@ Open **View** for Compact / Comfortable / Wide window sizes and page zoom preset
 
 ## Your tabs. Your rules.
 
-**In the Linux v0.1.22 preview**, switching tabs keeps existing page surfaces and avoids repeated background updates. Hover or focus a tab to see approximate renderer RAM. A shared renderer can include several tabs; GPU memory and separate subframes are excluded.
+**In the desktop v0.1.23 preview**, switching tabs keeps existing page surfaces and avoids repeated background updates. Hover or focus a tab to see approximate renderer RAM. A shared renderer can include several tabs; GPU memory and separate subframes are excluded.
 
 Open **Settings → Websites & developer tools** to allow or disable website JavaScript. Saving a change reloads open websites; Conake's own pages remain interactive. Some sites need JavaScript for login or video. Open website DevTools with **right-click → Inspect**, **View → Inspect Page**, **F12** or **Ctrl/Command+Shift+I**.
 
@@ -120,7 +129,7 @@ Up to **40 pinned tabs** keep their order, addresses, names, and colors in your 
   <img src="assets/readme/snake-run.svg" alt="Snake Run — Jump crystals. Duck drones. Chase your best. Play Conake's offline arcade runner." width="100%">
 </a>
 
-**Snake Run is bundled into Conake v0.1.20.** Open it from a new tab, **Navigate → Snake Run**, a connection-error page, or `conake://snake-run`. No extra game download needed.
+**Snake Run is bundled into Conake v0.1.23.** Open it from a new tab, **Navigate → Snake Run**, a connection-error page, or `conake://snake-run`. No extra game download needed.
 
 | Jump | Duck | Pause | Restart |
 | :--- | :--- | :--- | :--- |
@@ -154,7 +163,7 @@ Inside Conake, open **Extensions**, review the source and website access, and ch
 
 The current format supports content scripts on HTTP/HTTPS websites. It does not install arbitrary Chrome Web Store or CRX packages. Creator submissions are not automatically reviewed.
 
-The **Linux v0.1.22 preview** includes Chrome Web Store browsing and reviewed imports of unpacked Manifest V3 extensions containing one JavaScript file and one CSS file. Review their code and website access before importing; background services and other Chrome APIs are not supported.
+The **desktop v0.1.23 preview** includes Chrome Web Store browsing and reviewed imports of unpacked Manifest V3 extensions containing one JavaScript file and one CSS file. Review their code and website access before importing; background services and other Chrome APIs are not supported.
 
 </details>
 
@@ -170,24 +179,24 @@ Use **Ctrl+C**, **Ctrl+X**, **Ctrl+V**, and **Ctrl+A** for copy, cut, paste, and
 <details>
 <summary><strong>Installer checksums</strong></summary>
 
-Download **[v0.1.22 Linux .deb and AppImage checksums](https://github.com/menacing-aura/Conake-Browser/releases/download/v0.1.22/Conake-0.1.22-checksums.txt)** or **[v0.1.20 checksums for Windows and macOS](https://github.com/menacing-aura/Conake-Browser/releases/download/v0.1.20/SHA256SUMS.txt)** into the same folder as your installer. Compare your file's SHA-256 hash with its entry in the matching checksum file:
+Download **[v0.1.23 SHA-256 checksums for all desktop installers](https://github.com/menacing-aura/Conake-Browser/releases/download/v0.1.23/SHA256SUMS.txt)** into the same folder as your installer. Compare your file's SHA-256 hash with its entry:
 
 **Windows · PowerShell**
 
 ```powershell
-Get-FileHash .\ConakeBrowser-0.1.20-win-x64.exe -Algorithm SHA256
+Get-FileHash .\ConakeBrowser-0.1.23-win-x64.exe -Algorithm SHA256
 ```
 
 **Linux**
 
 ```sh
-sha256sum conake-browser_0.1.22_amd64.deb
+sha256sum conake-browser_0.1.23_amd64.deb
 ```
 
 **macOS · Apple Silicon**
 
 ```sh
-shasum -a 256 ConakeBrowser-0.1.20-mac-arm64.dmg
+shasum -a 256 ConakeBrowser-0.1.23-mac-arm64.dmg
 ```
 
 Use the filename you downloaded if you chose AppImage or an Intel Mac installer.

@@ -1,3 +1,20 @@
+## v0.1.23 desktop preview · favorites and shortcuts
+
+Windows, Linux and macOS installers are available in the **[v0.1.23 release](https://github.com/menacing-aura/Conake-Browser/releases/tag/v0.1.23)** with **[SHA-256 checksums](https://github.com/menacing-aura/Conake-Browser/releases/download/v0.1.23/SHA256SUMS.txt)**.
+
+- New Tab → **+ Add shortcut** saves a website link. Keep up to 16 shortcuts and use each tile's **⋯** to rename, change its address or remove it.
+- Click the address-bar star or press **Ctrl/Command+D** to save or remove the current favorite. Your eight newest bookmarks appear as New Tab tiles.
+- **View all bookmarks**, **Ctrl/Command+B** or **Ctrl/Command+Shift+O** opens **Bookmarks & favorites** with add, edit, search and remove controls.
+- Press **F1** or choose **View → Keyboard Shortcuts** for the bundled guide. Repeated F1 focuses the existing guide tab and preserves your website tab and typed draft.
+- Favorites and shortcuts stay in the encrypted local profile and return after sign-in. Existing bookmarks are preserved.
+- Includes the earlier smoother tab updates, approximate renderer RAM on hover, website JavaScript setting, website Inspect tools and reviewed content-script imports.
+
+Close Conake before updating and verify the installer against SHA256SUMS.txt. The separate Chromebook Android APK remains Preview 06.
+
+Validation: 117 unit tests, the new native favorites/shortcuts checks and the full existing native desktop UI suite passed. Windows, Linux and macOS builds completed successfully.
+
+---
+
 ## v0.1.22 Linux preview · tab performance and website controls
 
 **[Download the Linux .deb](https://github.com/menacing-aura/Conake-Browser/releases/download/v0.1.22/conake-browser_0.1.22_amd64.deb)** · **[Download the AppImage](https://github.com/menacing-aura/Conake-Browser/releases/download/v0.1.22/ConakeBrowser-0.1.22-linux-x86_64.AppImage)** · [Release notes](https://github.com/menacing-aura/Conake-Browser/releases/tag/v0.1.22) · [Linux checksums](https://github.com/menacing-aura/Conake-Browser/releases/download/v0.1.22/Conake-0.1.22-checksums.txt)
