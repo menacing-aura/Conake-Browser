@@ -1,3 +1,13 @@
+## v0.1.24 desktop preview · Conake Plus
+
+**[Download the Windows x64 and Linux x86_64 preview](https://github.com/menacing-aura/Conake-Browser/releases/tag/v0.1.24)** · **[SHA-256 checksums](https://github.com/menacing-aura/Conake-Browser/releases/download/v0.1.24/SHA256SUMS.txt)**
+
+Open **New Tab → Conake Plus**, **Navigate → Conake Plus**, or `conake://plus`. The optional membership supports Conake Browser and Conake Studio; Gumroad handles pricing and billing. The [Studio Plus page](https://conake-studios.web-one1aura.workers.dev/#plus) works in any browser.
+
+macOS stays on v0.1.23 ([earlier installers](https://github.com/menacing-aura/Conake-Browser/releases/tag/v0.1.23)). Chromebook remains Preview 06.
+
+---
+
 ## v0.1.23 desktop preview · favorites and shortcuts
 
 Windows, Linux and macOS installers are available in the **[v0.1.23 release](https://github.com/menacing-aura/Conake-Browser/releases/tag/v0.1.23)** with **[SHA-256 checksums](https://github.com/menacing-aura/Conake-Browser/releases/download/v0.1.23/SHA256SUMS.txt)**.
