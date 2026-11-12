@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://menacing-aura.github.io/Conake-Browser/">
+  <a href="https://conake.com/#downloads">
     <img src="assets/readme/conake-cover.svg" alt="Conake™ Browser — Your next arc. Crimson Eclipse desktop browser by Conake™ Studio." width="100%">
   </a>
 </p>
@@ -10,9 +10,9 @@
 </p>
 
 <p align="center">
-  <a href="https://menacing-aura.github.io/Conake-Browser/"><strong>Download center ↗</strong></a>
+  <a href="https://conake.com/#downloads"><strong>Download center ↗</strong></a>
   &nbsp;·&nbsp;
-  <a href="https://conake-studios.web-one1aura.workers.dev/">Conake™ Studio</a>
+  <a href="https://conake.com/">Conake™ Studio</a>
   &nbsp;·&nbsp;
   <a href="https://conake-extensions.web-one1aura.workers.dev/">Extension Store</a>
   &nbsp;·&nbsp;
@@ -127,7 +127,7 @@ Up to **40 pinned tabs** keep their order, addresses, names, and colors in your 
 
 ### No internet? Run anyway.
 
-<a href="https://conake-studios.web-one1aura.workers.dev/snake-run/">
+<a href="https://conake.com/snake-run/">
   <img src="assets/readme/snake-run.svg" alt="Snake Run — Jump crystals. Duck drones. Chase your best. Play Conake's offline arcade runner." width="100%">
 </a>
 
@@ -139,7 +139,7 @@ Up to **40 pinned tabs** keep their order, addresses, names, and colors in your 
 
 Touch controls and optional sound are included. Your best score stays in your encrypted local profile.
 
-**[Play Snake Run on the web ↗](https://conake-studios.web-one1aura.workers.dev/snake-run/)** · Visit once online to cache the web game for offline play. Web scores stay in that browser on that device.
+**[Play Snake Run on the web ↗](https://conake.com/snake-run/)** · Visit once online to cache the web game for offline play. Web scores stay in that browser on that device.
 
 ## Get started
 
