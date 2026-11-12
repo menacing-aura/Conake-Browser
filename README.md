@@ -1,22 +1,22 @@
 <p align="center">
   <a href="https://menacing-aura.github.io/Conake-Browser/">
-    <img src="assets/readme/conake-cover.svg" alt="Conake Browser — Your next arc. Crimson Eclipse desktop browser by Conake Studio." width="100%">
+    <img src="assets/readme/conake-cover.svg" alt="Conake™ Browser — Your next arc. Crimson Eclipse desktop browser by Conake™ Studio." width="100%">
   </a>
 </p>
 
 <p align="center">
-  <strong>CONAKE BROWSER · ANIME ECLIPSE · DESKTOP DOWNLOADS</strong><br>
+  <strong>CONAKE™ BROWSER · ANIME ECLIPSE · DESKTOP DOWNLOADS</strong><br>
   Anime-styled desktop browser with custom themes, community extensions, encrypted local profiles, and built-in Snake Run. Windows · Linux · macOS.
 </p>
 
 <p align="center">
   <a href="https://menacing-aura.github.io/Conake-Browser/"><strong>Download center ↗</strong></a>
   &nbsp;·&nbsp;
-  <a href="https://conake-studios.web-one1aura.workers.dev/">Conake Studio</a>
+  <a href="https://conake-studios.web-one1aura.workers.dev/">Conake™ Studio</a>
   &nbsp;·&nbsp;
   <a href="https://conake-extensions.web-one1aura.workers.dev/">Extension Store</a>
   &nbsp;·&nbsp;
-  <a href="https://conake-domains.web-one1aura.workers.dev/">Conake Names</a>
+  <a href="https://conake-domains.web-one1aura.workers.dev/">Conake™ Names</a>
   &nbsp;·&nbsp;
   <a href="https://discord.gg/BMcST6NaZS">Discord</a>
 </p>
@@ -36,16 +36,16 @@ Your online Names account, encrypted desktop profile and Extension Store account
 <table>
   <tr>
     <td width="33%" align="center" valign="top">
-      <a href="https://github.com/menacing-aura/Conake-Browser/releases/download/v0.1.24/ConakeBrowser-0.1.24-win-x64.exe"><img src="assets/readme/download-windows.svg" width="280" alt="Download Conake Browser for Windows x64 — EXE installer"></a><br>
+      <a href="https://github.com/menacing-aura/Conake-Browser/releases/download/v0.1.24/ConakeBrowser-0.1.24-win-x64.exe"><img src="assets/readme/download-windows.svg" width="280" alt="Download Conake™ Browser for Windows x64 — EXE installer"></a><br>
       <a href="https://github.com/menacing-aura/Conake-Browser/releases/download/v0.1.24/ConakeBrowser-0.1.24-win-x64.exe"><strong>Windows · .exe v0.1.24 ↓</strong></a>
     </td>
     <td width="33%" align="center" valign="top">
-      <a href="https://github.com/menacing-aura/Conake-Browser/releases/download/v0.1.24/conake-browser_0.1.24_amd64.deb"><img src="assets/readme/download-linux.svg" width="280" alt="Download Conake Browser for Linux x64 — Debian installer"></a><br>
+      <a href="https://github.com/menacing-aura/Conake-Browser/releases/download/v0.1.24/conake-browser_0.1.24_amd64.deb"><img src="assets/readme/download-linux.svg" width="280" alt="Download Conake™ Browser for Linux x64 — Debian installer"></a><br>
       <a href="https://github.com/menacing-aura/Conake-Browser/releases/download/v0.1.24/conake-browser_0.1.24_amd64.deb"><strong>Ubuntu / Mint / Debian · .deb v0.1.24 preview ↓</strong></a><br>
       <a href="https://github.com/menacing-aura/Conake-Browser/releases/download/v0.1.24/ConakeBrowser-0.1.24-linux-x86_64.AppImage">Other Linux · AppImage v0.1.24 preview ↓</a>
     </td>
     <td width="33%" align="center" valign="top">
-      <a href="https://github.com/menacing-aura/Conake-Browser/releases/download/v0.1.23/ConakeBrowser-0.1.23-mac-arm64.dmg"><img src="assets/readme/download-macos.svg" width="280" alt="Download Conake Browser for macOS Apple Silicon — DMG installer"></a><br>
+      <a href="https://github.com/menacing-aura/Conake-Browser/releases/download/v0.1.23/ConakeBrowser-0.1.23-mac-arm64.dmg"><img src="assets/readme/download-macos.svg" width="280" alt="Download Conake™ Browser for macOS Apple Silicon — DMG installer"></a><br>
       <a href="https://github.com/menacing-aura/Conake-Browser/releases/download/v0.1.23/ConakeBrowser-0.1.23-mac-arm64.dmg"><strong>Apple Silicon · .dmg v0.1.23 ↓</strong></a><br>
       <a href="https://github.com/menacing-aura/Conake-Browser/releases/download/v0.1.23/ConakeBrowser-0.1.23-mac-x64.dmg">Intel Mac · .dmg v0.1.23 ↓</a>
     </td>
@@ -68,7 +68,7 @@ Your online Names account, encrypted desktop profile and Extension Store account
 
 [Download Chromebook APK · Preview 06 ↓](https://github.com/menacing-aura/Conake-Browser/releases/download/v0.1.21-chromebook.6/ConakeBrowser-Chromebook-0.1.21-preview6.apk) · [Installation instructions](https://github.com/menacing-aura/Conake-Browser/releases/tag/v0.1.21-chromebook.6) · [APK checksum](https://github.com/menacing-aura/Conake-Browser/releases/download/v0.1.21-chromebook.6/SHA256SUMS.txt)
 
-Preview 06 adds Chrome Web Store browsing from the browser menu; Android extension installation is not supported. It retains the upper address-bar fixes for physical Enter and numpad Enter, supports more on-screen keyboard actions, and adds a visible Go button. It also includes Quick setup, official Conake Account links, .conake name navigation, the anime dashboard, saved bookmarks and history, editable quick links, native tab controls, find-in-page, desktop-site mode, copy/share, downloads and more settings. It is a separate Android WebView edition for supported Chromebooks and requires Android app support, ADB sideloading, and an internet connection. Desktop accounts and extensions are not included. Preview 01 was reported running on a hatch Chromebook; this update is checked in an Android tablet emulator.
+Preview 06 adds Chrome Web Store browsing from the browser menu; Android extension installation is not supported. It retains the upper address-bar fixes for physical Enter and numpad Enter, supports more on-screen keyboard actions, and adds a visible Go button. It also includes Quick setup, official Conake™ Account links, .conake name navigation, the anime dashboard, saved bookmarks and history, editable quick links, native tab controls, find-in-page, desktop-site mode, copy/share, downloads and more settings. It is a separate Android WebView edition for supported Chromebooks and requires Android app support, ADB sideloading, and an internet connection. Desktop accounts and extensions are not included. Preview 01 was reported running on a hatch Chromebook; this update is checked in an Android tablet emulator.
 
 **Phone warning:** opening this APK on a phone can trigger a 48-hour IP ban, including for other devices sharing the same public IP. Device identification can be inaccurate or bypassed.
 
@@ -224,8 +224,8 @@ Only download-page assets belong in this repository. Application source archives
 
 <p align="center">
   <br>
-  <img src="assets/readme/conake-studio.svg" width="100%" alt="Made by Conake Studio — Your next arc starts here."><br>
-  <sub>© 2026 Conake Studio. All rights reserved. · <a href="LICENSE">Proprietary license</a> · <a href="COPYRIGHT.txt">Copyright notice</a></sub>
+  <img src="assets/readme/conake-studio.svg" width="100%" alt="Made by Conake™ Studio — Your next arc starts here."><br>
+  <sub>© 2026 Conake™ Studio. All rights reserved. · <a href="LICENSE">Proprietary license</a> · <a href="COPYRIGHT.txt">Copyright notice</a></sub>
 </p>
 
 
