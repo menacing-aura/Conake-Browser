@@ -23,7 +23,7 @@
 
 ## Start your first arc
 
-**[Open the setup guide ↗](https://conake-domains.web-one1aura.workers.dev/setup)** for the right installer, first launch, profiles, wallpapers, tabs, fullscreen and Snake Run. On desktop, open **Quick setup** from a new tab or **Navigate → Setup Guide**. The desktop guide works offline and can apply your theme and search engine.
+**[Open the setup guide ↗](https://conake-domains.web-one1aura.workers.dev/setup)** for the right installer, first launch, profiles, wallpapers, tabs, fullscreen and Snake Run. On desktop, open **Setup Guide** from a new tab or **Navigate → Setup Guide**. The desktop guide works offline and can apply your theme and search engine.
 
 **[Sign in with Conake ↗](https://conake-domains.web-one1aura.workers.dev/account)** to manage your .conake names. Existing Names credentials still work. Confirm your password when creating or recovering an account, save your private recovery code, choose session-only or seven-day sign-in, review active sign-ins, change the online password, and sign out other devices.
 
@@ -112,9 +112,10 @@ Touch controls and optional sound are included. Your best score stays in your en
 
 ## Get started
 
-1. Download the installer for your computer and open it.
-2. Create a **local account** with a password of at least **12 characters**.
-3. Pick a theme, explore the web, and try **Snake Run** from your new-tab page.
+1. [Download the installer for your computer](https://conake.com/#downloads) and open it.
+2. Create a **local account** with a password of at least **12 characters**, or sign in to your existing profile.
+3. Choose your window buttons, toolbar, tabs, New Tab layout, and colors. If you're upgrading an existing profile, setup starts with your saved choices.
+4. Select **Save and enter Conake**. Open **Browser Builder** from the toolbar or **View** menu to edit your layout later.
 
 <details>
 <summary><strong>Accounts, sign-in, and local privacy</strong></summary>
