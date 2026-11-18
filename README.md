@@ -1,16 +1,16 @@
 <p align="center">
-  <a href="https://conake.com/#downloads">
+  <a href="https://conake.com/downloads">
     <img src="assets/readme/conake-cover.svg" alt="Conake™ Browser — Your next arc. Crimson Eclipse desktop browser by Conake™ Studio." width="100%">
   </a>
 </p>
 
 <p align="center">
-  <strong>CONAKE™ BROWSER · ANIME ECLIPSE · DESKTOP DOWNLOADS</strong><br>
-  Anime-styled desktop browser with custom themes, community extensions, encrypted local profiles, and built-in Snake Run. Windows · Linux · macOS.
+  <strong>CONAKE™ BROWSER · ANIME ECLIPSE · DOWNLOADS</strong><br>
+  Anime-styled desktop browser with custom themes, community extensions, encrypted local profiles, and built-in Snake Run. Available on desktop, Android and Chromebook.
 </p>
 
 <p align="center">
-  <a href="https://conake.com/#downloads"><strong>Download center ↗</strong></a>
+  <a href="https://conake.com/downloads"><strong>Download center ↗</strong></a>
   &nbsp;·&nbsp;
   <a href="https://conake.com/">Conake™ Studio</a>
   &nbsp;·&nbsp;
@@ -31,17 +31,15 @@ Your online Names account, encrypted desktop profile and Extension Store account
 
 ## Download Conake Browser
 
-**[Get Conake Browser at Conake.com ↗](https://conake.com/#downloads)** for Windows, Linux, and macOS.
+**[Get Conake Browser at Conake.com ↗](https://conake.com/downloads)** for Windows, Linux, macOS, Android and Chromebook.
 
-### Chromebook · Android preview
+### Android & Chromebook · v0.2.0 preview 7
 
-[Get the Chromebook preview at Conake.com ↗](https://conake.com/#downloads) · [Installation instructions](https://github.com/menacing-aura/Conake-Browser/releases/tag/v0.1.21-chromebook.6)
+**[Download the Android APK](https://conake.com/downloads/android/v0.2.0-android.7/ConakeBrowser-Android-0.2.0.apk)** · [SHA-256 checksum](https://conake.com/downloads/android/v0.2.0-android.7/SHA256SUMS.txt)
 
-Preview 06 adds Chrome Web Store browsing from the browser menu; Android extension installation is not supported. It retains the upper address-bar fixes for physical Enter and numpad Enter, supports more on-screen keyboard actions, and adds a visible Go button. It also includes Quick setup, official Conake™ Account links, .conake name navigation, the anime dashboard, saved bookmarks and history, editable quick links, native tab controls, find-in-page, desktop-site mode, copy/share, downloads and more settings. It is a separate Android WebView edition for supported Chromebooks and requires Android app support, ADB sideloading, and an internet connection. Desktop accounts and extensions are not included. Preview 01 was reported running on a hatch Chromebook; this update is checked in an Android tablet emulator.
+Use the same APK on Android 8.0 or newer on a phone, tablet, or Chromebook with Android app support and sideloading enabled. Open the APK on Android. To update a Chromebook installation over ADB, run `adb install -r ConakeBrowser-Android-0.2.0.apk`. Installing over Preview 06 keeps your bookmarks and history.
 
-**Phone warning:** opening this APK on a phone can trigger a 48-hour IP ban, including for other devices sharing the same public IP. Device identification can be inaccurate or bypassed.
-
-The verification service sees the public IP and device category to apply this restriction; it does not receive browsing addresses. The Chromebook preview stores game scores locally and requires an internet check to open the app. Saved bookmarks, history and quick links are encrypted with an Android Keystore key; anyone using the unlocked app can view them. Keep app data when updating with `adb install -r`.
+The app opens offline. The phone and shared-network bans have been removed. The toolbar fits narrow windows, tab tools are available on phones, and you can choose a dashboard or focus layout. Pages use Android System WebView.
 
 > **Installing Conake?** Pick an installer above. GitHub's **Code → Download ZIP** and **Source code** archives contain this download website's files.
 
@@ -58,7 +56,7 @@ Favorites and shortcuts stay in your encrypted local profile and return after si
 
 **[Register a free .conake name ↗](https://conake-domains.web-one1aura.workers.dev/)** for an existing public HTTPS website. Create a separate registry account, claim up to five names, update their destinations, or pause them while keeping ownership. Save your private recovery code.
 
-Desktop **v0.1.23** and **Chromebook Preview 06** resolve addresses such as `studio.conake`, `arcade.conake`, and `register.conake` from the address bar. The real HTTPS destination stays visible. This is a central Conake-only alias registry, separate from public DNS, without hosting, Tor routing, or anonymity. The registry receives the name lookup and public IP; other browsing addresses are not sent by the resolver.
+The desktop and Android editions resolve addresses such as `studio.conake`, `arcade.conake`, and `register.conake` from the address bar. The real HTTPS destination stays visible. This is a central Conake-only alias registry, separate from public DNS, without hosting, Tor routing, or anonymity. The registry receives the name lookup and public IP; other browsing addresses are not sent by the resolver.
 
 ## Keep your place.
 
@@ -110,9 +108,9 @@ Touch controls and optional sound are included. Your best score stays in your en
 
 **[Play Snake Run on the web ↗](https://conake.com/snake-run/)** · Visit once online to cache the web game for offline play. Web scores stay in that browser on that device.
 
-## Get started
+## Get started on desktop
 
-1. [Download the installer for your computer](https://conake.com/#downloads) and open it.
+1. [Download the installer for your computer](https://conake.com/downloads) and open it.
 2. Create a **local account** with a password of at least **12 characters**, or sign in to your existing profile.
 3. Choose your window buttons, toolbar, tabs, New Tab layout, and colors. If you're upgrading an existing profile, setup starts with your saved choices.
 4. Select **Save and enter Conake**. Open **Browser Builder** from the toolbar or **View** menu to edit your layout later.
@@ -151,7 +149,7 @@ Use **Ctrl+C**, **Ctrl+X**, **Ctrl+V**, and **Ctrl+A** for copy, cut, paste, and
 <details>
 <summary><strong>Installer checksums</strong></summary>
 
-Find the desktop checksums in [Downloads at Conake.com](https://conake.com/#downloads). Compare your file's SHA-256 hash with its entry.
+Find the desktop checksums in [Downloads at Conake.com](https://conake.com/downloads). Compare your file's SHA-256 hash with its entry.
 
 **Windows · PowerShell**
 

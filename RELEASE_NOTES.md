@@ -1,3 +1,15 @@
+## v0.2.0 preview 7 · Android and Chromebook
+
+[Download the APK from Conake.com](https://conake.com/downloads/android/v0.2.0-android.7/ConakeBrowser-Android-0.2.0.apk) · [SHA-256 checksum](https://conake.com/downloads/android/v0.2.0-android.7/SHA256SUMS.txt)
+
+One APK supports Android phones, tablets and Chromebooks with Android app support. It requires Android 8.0 or newer. Install over the Chromebook preview to keep your saved data.
+
+- The app starts offline and removes the old device and shared-network bans.
+- The toolbar adapts to phone and Chromebook windows. Tab tools, keyboard navigation and page state work across window sizes.
+- Choose Crimson, Celestial White, Violet, Mint or Midnight, and switch between Dashboard and Focus layouts.
+
+---
+
 ## v0.1.24 desktop preview · Conake Plus
 
 **[Download the Windows x64 and Linux x86_64 preview](https://github.com/menacing-aura/Conake-Browser/releases/tag/v0.1.24)** · **[SHA-256 checksums](https://github.com/menacing-aura/Conake-Browser/releases/download/v0.1.24/SHA256SUMS.txt)**
