@@ -1,0 +1,26 @@
+{
+  "conake-browser_0.2.1_amd64.deb": {
+    "size": 101713144,
+    "sha256": "87cc58f8d1f9f040e3bca81436d5f005b17f555e293b69fd7a4ffd871001bb78"
+  },
+  "ConakeBrowser-0.2.1-linux-x86_64.AppImage": {
+    "size": 126843156,
+    "sha256": "885c36c63549b835e6c54227794f1f07841401c1deed20fdda7cbab00f8d4528"
+  },
+  "ConakeBrowser-0.2.1-mac-arm64.dmg": {
+    "size": 130626314,
+    "sha256": "5e92096ee7bbc8f5e931ab1d443fcb876e8417bdabe26295e8eca993dbe03119"
+  },
+  "ConakeBrowser-0.2.1-mac-x64.dmg": {
+    "size": 134434526,
+    "sha256": "de127112df932503fda2554b077256a3e54464bc647d822760462170f08d1acf"
+  },
+  "ConakeBrowser-0.2.1-win-x64.exe": {
+    "size": 112117302,
+    "sha256": "5cbac5fd2c53d60b310ce9819db6e47c44e89592fc33aaafc1beaa62c9379d83"
+  },
+  "SHA256SUMS.txt": {
+    "size": 501,
+    "sha256": "7e18766626a4a012d28bfa261f2e88259e4d94216c8b3ed74ce5028b181cd226"
+  }
+}
