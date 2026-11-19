@@ -1,3 +1,9 @@
+## v0.2.3 · Remember this device
+
+Sign in once with **Remember this device** checked. Conake will reopen your local profile when you return. Choose **Lock** to require your password again, or clear the checkbox on a shared computer. Linux needs an unlocked system keyring.
+
+[Download desktop v0.2.3](https://conake.com/downloads) · [Release notes and checksums](https://github.com/menacing-aura/Conake-Browser/releases/tag/v0.2.3)
+
 ## v0.2.2 · Desktop appearance
 
 The active tab and New Tab wallpaper share a rainbow glow. Open **Settings → Appearance** to switch the glow off or keep it still with **Reduce motion**. The window, profile screen and New Tab share the Conake Studio wordmark.
