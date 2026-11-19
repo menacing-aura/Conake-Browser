@@ -1,3 +1,9 @@
+## v0.2.2 · Desktop appearance
+
+The active tab and New Tab wallpaper share a rainbow glow. Open **Settings → Appearance** to switch the glow off or keep it still with **Reduce motion**. The window, profile screen and New Tab share the Conake Studio wordmark.
+
+[Download desktop v0.2.2](https://conake.com/downloads) · [GitHub release and checksums](https://github.com/menacing-aura/Conake-Browser/releases/tag/v0.2.2)
+
 ## v0.2.1 · Desktop Site Shield
 
 Choose **Turn Off Site Shield for All Websites** from the shield beside the address bar. Your choice applies to every tab and survives a restart. To save one blocked installer, choose **Download This Link Once** from its entry in the shield menu.
