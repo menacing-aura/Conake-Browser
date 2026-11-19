@@ -33,6 +33,12 @@ Your online Names account, encrypted desktop profile and Extension Store account
 
 **[Get Conake Browser at Conake.com ↗](https://conake.com/downloads)** for Windows, Linux, macOS, Android and Chromebook.
 
+### Desktop v0.2.1 · Site Shield
+
+On Windows, macOS and Linux, the shield beside the address bar has an off switch for every website. Conake remembers your choice when you reopen it.
+
+[Download desktop v0.2.1](https://conake.com/downloads) · [GitHub release and checksums](https://github.com/menacing-aura/Conake-Browser/releases/tag/v0.2.1)
+
 ### Android & Chromebook · v0.2.0 preview 7
 
 **[Download the Android APK](https://conake.com/downloads/android/v0.2.0-android.7/ConakeBrowser-Android-0.2.0.apk)** · [SHA-256 checksum](https://conake.com/downloads/android/v0.2.0-android.7/SHA256SUMS.txt)
@@ -60,7 +66,7 @@ The desktop and Android editions resolve addresses such as `studio.conake`, `arc
 
 ## Keep your place.
 
-Website pop-ups are blocked by default. Open **Site Shield** beside the address bar to review blocked addresses and set pop-up or redirect rules for the current site. The redirect guard is enabled by default for enma.lol and its subdomains; other sites can opt in. It also blocks ordinary links leaving a guarded site.
+Website pop-ups are blocked by default. Open **Site Shield** beside the address bar and choose **Turn Off Site Shield for All Websites** to pause blocking across your tabs. The shield shows **Off**. Turning it back on restores your saved site rules. To save a blocked installer while keeping the shield on, select the blocked address and choose **Download This Link Once**. The redirect guard is enabled by default for enma.lol and its subdomains; other sites can opt in. It also blocks ordinary links leaving a guarded site.
 
 Back from a reviewed pop-up uses its own history first, then returns to its source tab when there is no history. Site rules stay encrypted in your local account. The blocked list stays in memory. Some in-page ads or embedded-frame content may remain.
 
