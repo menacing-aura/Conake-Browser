@@ -1,0 +1,21 @@
+name: Publish verified Studio UI installers
+on:
+  push:
+    branches: [ops/publish-desktop-v022]
+permissions:
+  contents: write
+concurrency:
+  group: conake-public-v022
+  cancel-in-progress: false
+jobs:
+  publish:
+    if: github.repository == 'menacing-aura/Conake-Browser'
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - name: Verify and publish the installer-only release
+        env:
+          GH_TOKEN: ${{ github.token }}
+          CONAKE_PUBLIC_TARGET: 02284caaf51a3714966862f75fc140b35a15207e
+        run: python3 .github/publish-verified-v022.py
