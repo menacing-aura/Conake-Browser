@@ -33,11 +33,13 @@ Your online Names account, encrypted desktop profile and Extension Store account
 
 **[Get Conake Browser at Conake.com ↗](https://conake.com/downloads)** for Windows, Linux, macOS, Android and Chromebook.
 
-### Desktop v0.2.1 · Site Shield
+### Desktop v0.2.2
 
-On Windows, macOS and Linux, the shield beside the address bar has an off switch for every website. Conake remembers your choice when you reopen it.
+The active tab and New Tab wallpaper now have a rainbow glow. Set **Settings → Appearance → Rainbow glow** to your liking, or use **Reduce motion** for a still spectrum. Select the wallpaper name on New Tab to change the scene.
 
-[Download desktop v0.2.1](https://conake.com/downloads) · [GitHub release and checksums](https://github.com/menacing-aura/Conake-Browser/releases/tag/v0.2.1)
+[Download desktop v0.2.2](https://conake.com/downloads) · [Release notes and checksums](https://github.com/menacing-aura/Conake-Browser/releases/tag/v0.2.2)
+
+![Conake Desktop with the active tab, Crimson Eclipse wallpaper, search and shortcuts](assets/readme/desktop-studio-v022.webp)
 
 ### Android & Chromebook · v0.2.0 preview 7
 
