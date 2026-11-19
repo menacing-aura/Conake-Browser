@@ -1,3 +1,9 @@
+## v0.2.1 · Desktop Site Shield
+
+Choose **Turn Off Site Shield for All Websites** from the shield beside the address bar. Your choice applies to every tab and survives a restart. To save one blocked installer, choose **Download This Link Once** from its entry in the shield menu.
+
+[Download for Windows, macOS or Linux](https://conake.com/downloads) · [GitHub release and checksums](https://github.com/menacing-aura/Conake-Browser/releases/tag/v0.2.1)
+
 ## v0.2.0 preview 7 · Android and Chromebook
 
 [Download the APK from Conake.com](https://conake.com/downloads/android/v0.2.0-android.7/ConakeBrowser-Android-0.2.0.apk) · [SHA-256 checksum](https://conake.com/downloads/android/v0.2.0-android.7/SHA256SUMS.txt)
