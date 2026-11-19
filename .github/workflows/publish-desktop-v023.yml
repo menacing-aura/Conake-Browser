@@ -1,0 +1,21 @@
+name: Publish verified trusted-device installers
+on:
+  push:
+    branches: [ops/publish-desktop-v023]
+permissions:
+  contents: write
+concurrency:
+  group: conake-public-v023
+  cancel-in-progress: false
+jobs:
+  publish:
+    if: github.repository == 'menacing-aura/Conake-Browser'
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - name: Verify and publish the installer-only release
+        env:
+          GH_TOKEN: ${{ github.token }}
+          CONAKE_PUBLIC_TARGET: 2cfbb1bc878377487b3804ec694c14e8f5cb4823
+        run: python3 .github/publish-verified-v023.py
