@@ -1,3 +1,21 @@
+## v0.4.0 · Google sign-in and linked profiles
+
+Conake Browser v0.4.0 adds **Continue with Google** to the desktop profile screen while keeping browser data in the existing encrypted, device-local vault.
+
+- Google desktop sign-in uses an installed-app OAuth flow with PKCE. The app contains the public client ID only; no Google client secret is embedded.
+- New Google identities get separate encrypted local profiles. If the same email already has a password profile on the device, Conake asks for that local password once and links the identities instead of replacing data.
+- Bookmarks, history, downloads, settings, workspaces, extensions and API keys remain local. Google sign-in provides identity and Conake marketplace access; it is not cloud sync for browser data.
+- Secure profile linking uses the operating system's protected storage. Linux requires a supported unlocked keyring for Google-linked automatic profile access.
+- The Chromium-style profile menu now shows the active account name/email, identifies Google-linked profiles and can display the Google profile picture.
+- Google-linked desktop accounts can reuse their Conake session on conake.com for account-backed Arcade ratings, creator submissions and future marketplace features.
+- Project Shift encrypted-profile startup and responsive native-view regression checks were hardened as part of this release.
+
+**[Download Conake Browser v0.4.0](https://conake.com/downloads)** · **[SHA-256 checksums](https://conake.com/downloads/desktop/v0.4.0/SHA256SUMS.txt)**
+
+Windows x64, Linux x86_64 (DEB/AppImage), macOS Intel and macOS Apple Silicon are available. Android remains the separate v0.2.0 preview 7.
+
+---
+
 ## v0.2.3 · Remember this device
 
 Sign in once with **Remember this device** checked. Conake will reopen your local profile when you return. Choose **Lock** to require your password again, or clear the checkbox on a shared computer. Linux needs an unlocked system keyring.
